@@ -1,0 +1,1201 @@
+﻿País,Producto,Año,Mes,Unidades Vendidas,Precio Unitario (USD),Costo Unitario (USD),Canal de Venta
+China,Coca-Cola Zero,2023,1,15031,1.93,0.56,Distribuidor
+Rusia,Sprite,2022,2,15536,0.96,1.03,Retail
+Italia,Schweppes,2022,6,1446,0.65,0.64,Restaurantes
+Colombia,Coca-Cola,2022,11,37683,2.01,1.5,Retail
+Japón,Coca-Cola,2023,2,49555,2.41,0.54,Retail
+China,Smartwater,2024,10,18618,1.81,0.56,Retail
+Nigeria,Del Valle,2024,5,7587,1.07,1.41,Distribuidor
+Colombia,Minute Maid,2024,5,32480,2.17,0.23,Restaurantes
+Colombia,Coca-Cola,2023,6,33994,0.7,1.11,Online
+Reino Unido,Fuze Tea,2024,6,21527,1.6,1.14,Retail
+Japón,Sprite,2023,6,24569,0.91,1.29,Distribuidor
+Brasil,Fuze Tea,2024,2,12151,0.96,1.47,Online
+México,Schweppes,2024,10,6558,1.01,1.47,Retail
+Francia,Coca-Cola,2022,3,45739,1.47,0.28,Online
+India,Minute Maid,2023,6,33954,0.63,1.27,Retail
+México,Schweppes,2022,8,48448,1.49,1.04,Online
+Estados Unidos,Powerade,2022,12,48327,1.78,1.04,Online
+Francia,Powerade,2022,11,44837,1.71,0.37,Restaurantes
+Francia,Fuze Tea,2023,12,36303,1.46,1.05,Restaurantes
+Chile,Del Valle,2023,1,35700,2.6,1.48,Retail
+Argentina,Coca-Cola Zero,2024,1,28500,0.86,1.39,Distribuidor
+Australia,Del Valle,2022,11,3032,1.76,0.77,Restaurantes
+Italia,Smartwater,2024,2,2252,0.66,0.25,Online
+Italia,Del Valle,2022,11,6509,0.68,0.67,Restaurantes
+Nigeria,Smartwater,2023,12,38842,1.93,1.27,Restaurantes
+Francia,Smartwater,2023,12,14900,1.92,1.11,Retail
+Rusia,Minute Maid,2023,6,15523,2.7,0.8,Restaurantes
+Brasil,Coca-Cola,2022,9,2881,1.89,0.27,Restaurantes
+Alemania,Minute Maid,2023,4,34037,2.9,0.75,Online
+Nigeria,Smartwater,2022,3,2630,0.62,0.81,Restaurantes
+China,Schweppes,2024,12,21789,0.75,1.41,Online
+Sudáfrica,Powerade,2022,8,23523,0.61,1.03,Restaurantes
+China,Smartwater,2024,11,18958,0.96,0.61,Restaurantes
+Perú,Minute Maid,2022,10,47151,1.85,0.88,Distribuidor
+Reino Unido,Schweppes,2024,9,49920,2.11,0.29,Restaurantes
+España,Minute Maid,2023,12,44852,0.61,1.46,Online
+Perú,Del Valle,2024,11,2695,2.86,0.67,Online
+Sudáfrica,Sprite,2023,5,15821,2.61,0.82,Retail
+México,Fuze Tea,2023,9,4262,1.24,0.66,Retail
+Rusia,Coca-Cola Zero,2024,2,2445,0.69,1.09,Distribuidor
+Italia,Minute Maid,2022,3,17436,0.92,1.06,Online
+China,Coca-Cola Zero,2022,7,10949,0.82,1.13,Online
+Francia,Fanta,2022,7,24963,0.81,0.55,Online
+Japón,Minute Maid,2022,6,30932,1.8,0.61,Distribuidor
+Italia,Sprite,2022,6,7901,1.11,0.36,Online
+Brasil,Coca-Cola Zero,2023,2,34487,1.4,1.05,Retail
+España,Smartwater,2022,10,9597,2.97,0.25,Distribuidor
+Chile,Minute Maid,2023,6,7855,2.21,0.98,Retail
+Reino Unido,Coca-Cola,2023,4,19678,2.87,1.33,Retail
+Perú,Fuze Tea,2023,12,9263,0.86,1.36,Distribuidor
+Japón,Sprite,2024,3,48288,1.46,0.78,Restaurantes
+Reino Unido,Coca-Cola Zero,2024,11,26805,1.89,0.8,Restaurantes
+México,Sprite,2023,2,27143,0.69,0.3,Retail
+India,Schweppes,2024,1,12874,0.51,1.07,Restaurantes
+Argentina,Fuze Tea,2022,11,28529,2.18,1.27,Online
+Reino Unido,Smartwater,2022,11,21866,2.1,0.52,Distribuidor
+Perú,Minute Maid,2023,5,15079,1.53,0.75,Retail
+Francia,Minute Maid,2022,2,8243,1.72,1.29,Online
+México,Minute Maid,2023,2,30872,1.54,1.34,Restaurantes
+Argentina,Fuze Tea,2023,7,10018,0.56,0.52,Online
+Reino Unido,Coca-Cola,2022,8,13100,1.34,0.92,Restaurantes
+España,Fanta,2024,10,20800,0.94,0.45,Retail
+Australia,Powerade,2022,8,27910,0.75,0.33,Online
+Italia,Del Valle,2022,4,30437,2.89,1.38,Distribuidor
+Japón,Coca-Cola Zero,2023,1,38588,2,1.27,Retail
+España,Coca-Cola,2023,11,12001,2.32,1.19,Online
+Japón,Smartwater,2023,7,47675,1.29,0.26,Online
+Australia,Coca-Cola Zero,2023,1,20942,1.48,1.3,Restaurantes
+Canadá,Minute Maid,2024,11,21862,1.09,0.77,Retail
+Perú,Sprite,2024,4,12669,0.74,0.65,Retail
+Italia,Smartwater,2024,8,16916,0.95,0.91,Retail
+Canadá,Coca-Cola Zero,2023,2,11878,2.49,0.32,Retail
+Sudáfrica,Minute Maid,2023,6,3985,2.19,1.18,Restaurantes
+Italia,Coca-Cola Zero,2023,6,33369,1.87,0.96,Distribuidor
+Canadá,Sprite,2024,12,9112,1.69,0.44,Retail
+Estados Unidos,Minute Maid,2023,9,42235,2.81,0.44,Restaurantes
+China,Fanta,2022,5,19931,0.68,0.44,Distribuidor
+Sudáfrica,Coca-Cola,2022,10,28340,1.2,0.27,Distribuidor
+Estados Unidos,Schweppes,2023,4,1336,1.37,0.96,Restaurantes
+Francia,Del Valle,2022,5,43933,2.46,1.29,Retail
+Japón,Fuze Tea,2022,12,20363,2.98,0.22,Distribuidor
+Colombia,Del Valle,2024,12,46536,1.1,0.26,Retail
+Nigeria,Smartwater,2023,10,4968,2.69,0.94,Retail
+Chile,Del Valle,2023,11,34678,2.58,1.27,Online
+Japón,Minute Maid,2024,5,49400,1.06,0.62,Retail
+Brasil,Fanta,2022,8,17279,1.5,0.65,Online
+Brasil,Schweppes,2022,10,4129,1.52,0.98,Distribuidor
+Estados Unidos,Coca-Cola,2023,12,39215,2.95,0.56,Restaurantes
+Alemania,Coca-Cola,2022,8,39897,0.95,0.23,Online
+Argentina,Sprite,2024,2,6850,2.5,1.16,Restaurantes
+China,Fuze Tea,2024,7,21588,1.34,1.01,Distribuidor
+Sudáfrica,Coca-Cola Zero,2023,8,41214,2.33,0.95,Retail
+China,Fanta,2024,11,12949,1.55,1.16,Distribuidor
+Sudáfrica,Coca-Cola Zero,2024,6,9519,1.95,1.08,Restaurantes
+Japón,Schweppes,2023,5,27375,2.58,0.47,Distribuidor
+Francia,Del Valle,2024,11,34082,2.51,0.66,Retail
+México,Coca-Cola,2024,9,12737,2.67,0.36,Distribuidor
+Estados Unidos,Schweppes,2024,3,2134,0.65,0.37,Retail
+Australia,Del Valle,2022,12,11938,2.23,1.08,Online
+Alemania,Coca-Cola,2023,10,25486,0.85,1.32,Restaurantes
+Brasil,Del Valle,2023,4,49356,1.54,1.45,Retail
+Francia,Fuze Tea,2023,9,27096,1.87,1.02,Retail
+Japón,Fanta,2022,6,42115,1.51,0.44,Distribuidor
+Brasil,Smartwater,2022,8,6592,1.8,0.34,Online
+Estados Unidos,Schweppes,2023,7,19108,2.99,1.26,Retail
+Brasil,Schweppes,2022,11,18270,0.84,0.95,Online
+Alemania,Powerade,2023,2,28649,2.19,1,Online
+Italia,Minute Maid,2022,3,11997,1.49,1.22,Distribuidor
+España,Fuze Tea,2024,1,34489,0.83,1.11,Retail
+Brasil,Fuze Tea,2024,9,10104,0.9,1.28,Distribuidor
+Estados Unidos,Coca-Cola Zero,2023,7,1870,2.87,0.27,Restaurantes
+Alemania,Del Valle,2022,1,29684,2.7,1.17,Restaurantes
+España,Minute Maid,2022,3,40519,2.77,1.31,Retail
+China,Fanta,2024,4,35524,2.98,0.57,Online
+Sudáfrica,Fanta,2024,4,31957,1.02,1.03,Retail
+Italia,Fuze Tea,2022,5,34885,1.39,0.61,Retail
+Italia,Fanta,2022,3,45369,2.17,1.45,Restaurantes
+Argentina,Powerade,2022,3,36596,1.71,0.24,Restaurantes
+Canadá,Schweppes,2022,1,30866,1.55,0.95,Online
+Nigeria,Sprite,2022,7,31676,1.39,0.42,Online
+China,Smartwater,2022,11,48764,1.98,1.13,Retail
+Chile,Coca-Cola Zero,2023,10,14878,1.94,0.43,Distribuidor
+Rusia,Del Valle,2022,1,40760,0.9,0.51,Retail
+Reino Unido,Smartwater,2024,2,28559,1.68,0.84,Online
+Alemania,Del Valle,2023,4,47546,1.88,1.39,Distribuidor
+China,Coca-Cola,2022,4,7771,1.93,0.48,Restaurantes
+Canadá,Smartwater,2024,5,17526,1.03,0.39,Online
+Italia,Sprite,2023,11,30896,2.36,1.19,Online
+Colombia,Fuze Tea,2024,2,32923,0.56,0.85,Distribuidor
+Reino Unido,Powerade,2022,4,37203,1.39,1.39,Online
+Canadá,Schweppes,2022,1,40390,2.45,0.39,Online
+China,Schweppes,2022,2,13852,1.91,1.04,Online
+Nigeria,Powerade,2022,1,48574,1.15,0.5,Online
+México,Minute Maid,2023,10,44391,2.24,0.4,Online
+Argentina,Coca-Cola,2023,10,2848,1.92,1.09,Online
+Canadá,Del Valle,2024,4,32027,2.49,0.97,Online
+India,Sprite,2022,4,36464,2.34,1.18,Online
+Francia,Fanta,2024,7,35485,2.03,0.6,Restaurantes
+Francia,Smartwater,2023,10,20456,1.72,0.78,Online
+Rusia,Coca-Cola,2022,11,10259,0.83,0.73,Restaurantes
+Colombia,Smartwater,2022,11,36554,1.15,1.48,Restaurantes
+China,Sprite,2023,9,47922,1.55,0.58,Retail
+Estados Unidos,Coca-Cola Zero,2023,9,14409,2,0.58,Retail
+Estados Unidos,Coca-Cola Zero,2023,5,4791,1.78,0.66,Restaurantes
+Rusia,Coca-Cola,2023,10,26864,1.22,0.93,Restaurantes
+Canadá,Fuze Tea,2023,1,37639,0.52,0.53,Online
+Sudáfrica,Sprite,2022,1,35574,1.74,1.39,Retail
+Brasil,Sprite,2023,6,18888,1.21,0.55,Distribuidor
+China,Powerade,2022,2,20692,2.34,1.36,Retail
+India,Fuze Tea,2022,8,24501,0.56,0.33,Restaurantes
+Japón,Del Valle,2023,9,14304,1.96,1.05,Restaurantes
+Sudáfrica,Del Valle,2023,4,28527,2.85,1.38,Online
+Alemania,Fanta,2022,5,19074,0.94,0.42,Online
+Estados Unidos,Schweppes,2023,11,16549,1.68,1.46,Retail
+Nigeria,Coca-Cola Zero,2023,8,30963,0.73,0.79,Online
+Argentina,Del Valle,2023,3,26920,2.06,1.43,Distribuidor
+Francia,Fuze Tea,2024,5,31826,1.88,1.08,Distribuidor
+Italia,Sprite,2022,3,37071,1.52,0.59,Online
+Sudáfrica,Del Valle,2024,12,17061,1.8,0.44,Distribuidor
+Rusia,Sprite,2023,10,29810,2.74,0.59,Distribuidor
+Chile,Del Valle,2024,3,48966,0.99,0.32,Retail
+Chile,Coca-Cola Zero,2023,3,23800,0.56,0.39,Distribuidor
+Rusia,Smartwater,2024,12,44423,2.65,0.34,Restaurantes
+Francia,Del Valle,2023,7,42692,1.94,0.75,Restaurantes
+China,Fuze Tea,2024,7,10940,2.73,1.23,Retail
+México,Del Valle,2024,7,4924,1.99,0.38,Online
+Brasil,Schweppes,2024,10,29054,2.53,0.37,Retail
+Chile,Coca-Cola Zero,2022,8,10783,1.57,1.04,Online
+Alemania,Fuze Tea,2024,5,38253,2.37,0.46,Online
+Chile,Powerade,2022,5,46397,2.78,0.33,Online
+Chile,Fuze Tea,2023,4,14233,1.93,0.42,Online
+Chile,Schweppes,2024,7,46669,0.95,1.4,Online
+México,Smartwater,2023,10,25484,1.17,1.27,Retail
+México,Coca-Cola Zero,2023,4,26068,1,0.66,Online
+Alemania,Powerade,2024,2,1191,1.12,1.05,Distribuidor
+Estados Unidos,Schweppes,2022,4,26074,1.27,0.9,Distribuidor
+Estados Unidos,Schweppes,2024,8,5917,1.89,1.08,Online
+Nigeria,Coca-Cola,2023,9,39599,1.97,1.09,Distribuidor
+México,Coca-Cola Zero,2023,3,26832,1.57,1.02,Restaurantes
+Francia,Fuze Tea,2024,7,43928,2.04,0.55,Retail
+India,Sprite,2022,12,21706,0.7,0.25,Retail
+Reino Unido,Smartwater,2022,9,14682,0.72,0.79,Online
+Colombia,Sprite,2023,11,27762,0.93,1.36,Online
+Chile,Fuze Tea,2023,4,24383,1.8,0.94,Restaurantes
+India,Fuze Tea,2022,10,28796,1.03,1.28,Online
+Alemania,Coca-Cola Zero,2024,3,24666,1.21,1.49,Distribuidor
+Rusia,Fuze Tea,2023,5,26662,1.5,0.41,Restaurantes
+México,Coca-Cola,2022,1,46159,2.53,1.1,Distribuidor
+India,Powerade,2023,3,35642,0.53,1.08,Retail
+Colombia,Fuze Tea,2024,8,42830,2.12,1.47,Distribuidor
+Australia,Sprite,2022,11,38531,2.17,1.48,Retail
+Australia,Fuze Tea,2023,8,11234,2.5,1.09,Distribuidor
+Estados Unidos,Coca-Cola,2024,4,10221,2.83,0.52,Retail
+Sudáfrica,Del Valle,2023,2,12410,0.55,1.24,Online
+India,Del Valle,2024,8,15519,0.88,0.34,Distribuidor
+Australia,Schweppes,2024,8,2051,2.72,1.21,Retail
+Brasil,Smartwater,2022,10,45993,1.65,1.38,Distribuidor
+Rusia,Fanta,2024,4,10765,1.91,0.7,Restaurantes
+Reino Unido,Powerade,2023,3,12382,2.16,1.02,Online
+Nigeria,Minute Maid,2024,2,13580,2.2,0.76,Retail
+Brasil,Schweppes,2024,9,33323,2.83,0.77,Restaurantes
+Nigeria,Smartwater,2022,1,45757,2.99,0.6,Distribuidor
+Rusia,Del Valle,2024,7,12939,2.3,1.19,Restaurantes
+China,Sprite,2024,5,30964,1.22,1.42,Distribuidor
+Rusia,Minute Maid,2023,8,1307,2.7,1.42,Online
+Sudáfrica,Smartwater,2022,4,4359,0.62,0.43,Restaurantes
+Estados Unidos,Smartwater,2022,7,30648,1.08,1.34,Online
+Japón,Schweppes,2022,5,36944,2.74,1.16,Retail
+China,Minute Maid,2024,5,35019,1.14,0.53,Distribuidor
+Perú,Coca-Cola Zero,2022,9,39134,1.05,0.29,Distribuidor
+Japón,Fanta,2024,9,28323,0.85,0.55,Online
+Estados Unidos,Coca-Cola Zero,2024,9,7226,2.65,1.39,Online
+Colombia,Minute Maid,2023,12,22689,1.75,1.02,Retail
+Perú,Coca-Cola Zero,2023,6,31971,2.19,1.14,Restaurantes
+Argentina,Coca-Cola,2023,6,26954,1.1,0.53,Distribuidor
+Brasil,Del Valle,2023,5,25423,2.4,1.14,Distribuidor
+China,Coca-Cola,2023,9,31391,2.4,0.24,Retail
+Australia,Fuze Tea,2024,10,15330,1.28,0.69,Retail
+Australia,Coca-Cola Zero,2024,8,5891,1.53,1.01,Online
+Rusia,Fuze Tea,2022,7,5992,1.02,0.39,Online
+Chile,Sprite,2024,7,2961,2.94,1.27,Restaurantes
+México,Powerade,2024,6,13497,2.11,0.51,Retail
+Estados Unidos,Sprite,2023,5,33551,2.84,1.05,Restaurantes
+Australia,Minute Maid,2024,4,11848,1.26,0.73,Retail
+Francia,Smartwater,2023,3,14255,2.45,0.97,Distribuidor
+Alemania,Del Valle,2022,3,5567,2.41,0.34,Retail
+Alemania,Coca-Cola Zero,2022,6,49847,2.23,0.22,Retail
+Sudáfrica,Schweppes,2024,4,40281,2.91,1.38,Distribuidor
+Sudáfrica,Powerade,2022,12,49003,1.48,0.55,Retail
+Brasil,Fanta,2024,12,21389,0.83,1.27,Restaurantes
+Nigeria,Fanta,2022,6,45523,2.18,1.5,Online
+Australia,Fanta,2023,3,44919,2.32,0.47,Online
+Australia,Coca-Cola Zero,2023,4,17567,1.94,0.54,Restaurantes
+Brasil,Fanta,2023,9,4358,1.02,1.06,Distribuidor
+Rusia,Coca-Cola,2023,5,23999,1.76,1.46,Retail
+Estados Unidos,Powerade,2024,7,43358,1.28,1.39,Restaurantes
+Rusia,Coca-Cola,2022,10,11988,1.57,0.85,Online
+Colombia,Smartwater,2024,2,41446,2.11,1.23,Online
+Chile,Powerade,2023,5,32521,2.36,0.38,Restaurantes
+Japón,Coca-Cola,2024,9,6698,1.08,1.47,Online
+Reino Unido,Powerade,2022,11,2273,1.51,1.45,Restaurantes
+India,Smartwater,2024,3,28543,1.17,0.41,Online
+Japón,Fuze Tea,2022,9,32349,1,0.59,Restaurantes
+Rusia,Coca-Cola Zero,2024,11,12241,2.46,0.33,Retail
+Brasil,Coca-Cola Zero,2022,6,10497,2.77,0.55,Retail
+Australia,Fanta,2022,4,42875,1.43,1.26,Retail
+Brasil,Sprite,2023,7,33703,2.38,0.69,Retail
+Perú,Fanta,2022,8,45041,2.74,0.31,Online
+España,Minute Maid,2023,6,32954,2.62,0.64,Distribuidor
+Perú,Coca-Cola,2023,5,9002,0.96,1.48,Restaurantes
+México,Powerade,2023,6,5247,2.89,1.02,Distribuidor
+Brasil,Sprite,2024,5,42988,1.44,0.74,Online
+Australia,Smartwater,2024,8,22698,1.35,0.42,Online
+Sudáfrica,Minute Maid,2024,1,20738,0.66,1.48,Distribuidor
+Reino Unido,Smartwater,2024,11,11703,1.72,1.27,Distribuidor
+Estados Unidos,Coca-Cola Zero,2022,7,49240,0.77,0.57,Online
+Reino Unido,Coca-Cola Zero,2022,10,18570,1.12,0.29,Online
+Estados Unidos,Fanta,2024,10,13392,1.29,0.27,Restaurantes
+España,Coca-Cola,2022,11,45724,2.52,0.36,Retail
+Australia,Sprite,2022,2,33299,2.69,0.95,Retail
+Rusia,Del Valle,2023,9,16641,1.26,1.41,Restaurantes
+Japón,Minute Maid,2023,1,14998,2.65,0.85,Distribuidor
+China,Minute Maid,2023,11,7305,2.64,1.3,Online
+Brasil,Fanta,2023,10,33726,2.41,0.78,Distribuidor
+Chile,Coca-Cola Zero,2022,6,19782,0.87,1.12,Retail
+Estados Unidos,Fanta,2024,9,13721,2.23,1.15,Retail
+Australia,Powerade,2022,1,40763,2.86,0.43,Distribuidor
+Francia,Sprite,2022,4,13427,2.21,0.67,Retail
+Nigeria,Coca-Cola,2022,4,47550,1.33,1.03,Online
+España,Fuze Tea,2023,9,21566,1.75,0.29,Restaurantes
+India,Schweppes,2023,11,3230,2.11,0.67,Distribuidor
+India,Schweppes,2023,5,7511,1.78,0.9,Online
+Canadá,Fanta,2024,5,43229,0.8,1.5,Online
+Nigeria,Powerade,2022,6,27177,1.28,0.82,Retail
+Japón,Sprite,2024,1,5765,2.51,1.26,Online
+México,Del Valle,2023,1,21354,2.65,0.76,Distribuidor
+Estados Unidos,Schweppes,2024,9,24929,0.84,1.24,Online
+Italia,Sprite,2022,3,29820,2.88,0.97,Restaurantes
+Estados Unidos,Coca-Cola,2022,4,47040,1.32,1.35,Online
+Alemania,Smartwater,2023,1,30523,2.16,0.73,Online
+Australia,Powerade,2023,9,6552,2.38,0.99,Restaurantes
+Nigeria,Coca-Cola Zero,2024,8,1627,2.53,1.02,Online
+Reino Unido,Sprite,2023,2,12989,2.86,0.74,Online
+Brasil,Coca-Cola,2023,8,14780,1.28,0.39,Retail
+Chile,Del Valle,2022,7,7589,2.65,0.32,Distribuidor
+Chile,Fuze Tea,2023,11,35812,0.83,0.22,Retail
+Francia,Coca-Cola Zero,2023,6,29128,2.26,1.34,Distribuidor
+España,Fuze Tea,2022,1,46939,2.35,0.51,Restaurantes
+India,Del Valle,2022,7,39652,2.19,0.47,Restaurantes
+Brasil,Coca-Cola,2024,10,28790,1.13,1.16,Restaurantes
+Sudáfrica,Schweppes,2023,7,41953,2.68,0.62,Distribuidor
+Alemania,Fuze Tea,2022,9,1249,0.92,0.86,Distribuidor
+Chile,Coca-Cola Zero,2024,1,20309,0.63,0.41,Distribuidor
+España,Fanta,2024,2,26901,2.29,1.45,Restaurantes
+Brasil,Minute Maid,2023,11,24576,1.69,1.31,Distribuidor
+Estados Unidos,Sprite,2023,9,32508,2.62,1.32,Online
+Rusia,Schweppes,2024,9,10175,1.46,0.73,Retail
+Estados Unidos,Fuze Tea,2022,6,26464,0.92,1.19,Restaurantes
+Brasil,Smartwater,2024,6,17260,2.59,0.39,Retail
+Perú,Sprite,2023,4,36440,1.87,0.21,Online
+Argentina,Fanta,2022,4,30546,0.97,0.23,Distribuidor
+Brasil,Del Valle,2022,5,41047,2.3,0.96,Retail
+Japón,Minute Maid,2024,3,42430,1.78,0.79,Online
+España,Coca-Cola,2023,1,2987,2.01,0.87,Online
+Perú,Fanta,2024,1,26105,1.65,0.21,Retail
+Italia,Fanta,2024,12,13948,2.57,0.75,Restaurantes
+México,Del Valle,2024,7,14026,2.57,1.13,Retail
+Argentina,Powerade,2022,1,3773,2.27,0.78,Restaurantes
+México,Del Valle,2022,1,46927,0.76,1.15,Distribuidor
+Chile,Powerade,2023,3,10878,2.6,0.5,Restaurantes
+Japón,Powerade,2023,10,43946,2.18,1.26,Distribuidor
+Estados Unidos,Schweppes,2024,4,11377,2.24,0.96,Retail
+Sudáfrica,Schweppes,2024,4,8347,1.41,0.47,Distribuidor
+Colombia,Coca-Cola Zero,2024,2,34776,2.7,0.51,Online
+Australia,Fuze Tea,2023,1,4783,2.31,1.02,Distribuidor
+China,Fuze Tea,2022,3,5298,0.78,1.28,Restaurantes
+Argentina,Coca-Cola,2022,11,5668,1.52,0.74,Restaurantes
+Brasil,Fuze Tea,2024,4,21671,2.72,0.54,Restaurantes
+Perú,Schweppes,2024,3,35820,0.62,1.33,Distribuidor
+Canadá,Coca-Cola Zero,2024,8,35484,2.9,1.07,Restaurantes
+China,Coca-Cola Zero,2024,10,34078,2.2,0.78,Restaurantes
+Reino Unido,Powerade,2023,1,48159,2.08,0.83,Online
+Canadá,Del Valle,2022,2,21922,1.18,0.47,Distribuidor
+Rusia,Coca-Cola,2024,7,35028,1.12,1.01,Online
+Estados Unidos,Powerade,2023,4,46925,2.86,0.67,Restaurantes
+Japón,Del Valle,2024,8,21316,1.25,1.49,Restaurantes
+España,Fuze Tea,2024,11,12460,2.44,0.82,Restaurantes
+Australia,Powerade,2022,3,17968,1.48,0.83,Distribuidor
+España,Sprite,2024,6,31266,0.85,0.94,Retail
+Francia,Fuze Tea,2022,9,31209,0.53,1.39,Restaurantes
+Nigeria,Del Valle,2022,1,25000,1.86,1.24,Restaurantes
+Italia,Coca-Cola,2022,1,15011,2.94,0.79,Restaurantes
+México,Del Valle,2023,8,3866,1.42,1.13,Restaurantes
+México,Powerade,2023,3,48133,1.39,0.96,Distribuidor
+Nigeria,Powerade,2022,5,6898,1.36,0.84,Retail
+Chile,Fanta,2024,1,19395,1.8,0.45,Retail
+Rusia,Coca-Cola,2022,5,40019,1.6,0.8,Retail
+Argentina,Smartwater,2024,11,38707,2.7,0.52,Restaurantes
+India,Fuze Tea,2022,6,5006,1.76,1.39,Restaurantes
+Italia,Coca-Cola Zero,2024,8,35393,1.77,0.64,Retail
+Colombia,Coca-Cola,2023,3,11956,0.85,1.44,Retail
+Alemania,Coca-Cola Zero,2024,3,31663,2.96,0.89,Restaurantes
+Estados Unidos,Coca-Cola,2022,12,7078,1.12,1.02,Restaurantes
+Japón,Coca-Cola,2023,11,30631,0.68,0.91,Online
+Francia,Del Valle,2024,11,31140,2.16,0.37,Online
+Francia,Coca-Cola,2024,10,42691,1.99,0.69,Online
+Alemania,Fanta,2024,9,4961,1.54,0.33,Retail
+China,Smartwater,2024,4,30277,1.56,1.01,Distribuidor
+Reino Unido,Powerade,2024,4,42574,2.46,0.78,Restaurantes
+India,Minute Maid,2023,12,32417,0.99,1.21,Online
+Canadá,Coca-Cola Zero,2023,7,23484,2.55,0.49,Distribuidor
+Rusia,Powerade,2023,2,19103,2.12,0.41,Restaurantes
+Italia,Minute Maid,2023,8,30345,1.55,0.73,Distribuidor
+Brasil,Smartwater,2022,6,47326,1.65,1.4,Retail
+Japón,Smartwater,2023,3,40454,1.14,1.12,Retail
+Rusia,Coca-Cola Zero,2024,9,2587,2.38,0.74,Retail
+Australia,Coca-Cola Zero,2024,5,43571,1.78,0.87,Online
+Canadá,Smartwater,2023,8,22031,1.3,0.31,Restaurantes
+Perú,Minute Maid,2024,7,27212,1.99,1.48,Retail
+Argentina,Coca-Cola,2023,8,11350,2.99,1.07,Online
+Nigeria,Fuze Tea,2024,7,19816,1.59,0.57,Online
+Chile,Sprite,2022,3,21288,2.8,0.96,Online
+Nigeria,Powerade,2022,2,30432,1.36,0.34,Online
+Alemania,Del Valle,2023,7,45222,0.64,1.46,Retail
+Sudáfrica,Powerade,2023,3,49617,1.01,0.43,Online
+Francia,Del Valle,2023,3,7837,1.55,1.04,Retail
+Estados Unidos,Minute Maid,2024,2,35217,1.05,0.52,Retail
+Estados Unidos,Del Valle,2023,4,21884,0.5,1.13,Online
+Italia,Coca-Cola Zero,2022,8,6454,2.79,1.21,Retail
+México,Fuze Tea,2024,12,10424,2.61,1.08,Restaurantes
+Australia,Fuze Tea,2023,1,37885,2.36,1,Restaurantes
+Japón,Coca-Cola Zero,2024,1,42637,0.92,1.36,Distribuidor
+Canadá,Fanta,2024,12,44618,0.8,0.3,Restaurantes
+Estados Unidos,Minute Maid,2023,5,19412,0.67,0.63,Retail
+Australia,Fanta,2024,11,48111,2.31,0.52,Retail
+China,Fanta,2022,5,40613,2.82,1.48,Restaurantes
+Alemania,Powerade,2022,11,21142,1.58,0.71,Online
+Brasil,Smartwater,2024,12,38392,0.8,1.15,Online
+Francia,Powerade,2023,1,9848,1.78,1.09,Retail
+Australia,Smartwater,2024,6,14136,1.37,0.48,Online
+Nigeria,Sprite,2022,1,1589,1.44,0.51,Distribuidor
+Alemania,Del Valle,2024,5,21908,2.05,0.57,Distribuidor
+España,Smartwater,2024,9,7509,2.3,0.73,Restaurantes
+Alemania,Coca-Cola Zero,2022,12,41461,0.78,0.5,Restaurantes
+Italia,Powerade,2024,5,43222,0.59,0.23,Online
+Chile,Minute Maid,2024,6,45476,2.99,1.34,Retail
+España,Del Valle,2023,8,46710,1.08,1.46,Restaurantes
+Rusia,Sprite,2023,11,10968,0.63,0.64,Distribuidor
+Alemania,Smartwater,2022,1,3462,0.97,0.64,Restaurantes
+Francia,Sprite,2022,2,10460,0.6,0.21,Restaurantes
+Australia,Minute Maid,2022,9,34783,1.48,1.08,Distribuidor
+Australia,Fanta,2023,3,10275,2.51,1.27,Retail
+China,Fuze Tea,2022,6,29677,1.35,0.39,Restaurantes
+Reino Unido,Minute Maid,2022,5,14269,1.61,0.41,Restaurantes
+Estados Unidos,Schweppes,2022,11,1406,2.19,1.23,Restaurantes
+Alemania,Minute Maid,2023,2,8384,1.77,1,Online
+Argentina,Sprite,2024,7,23553,2.65,0.26,Restaurantes
+Alemania,Coca-Cola Zero,2022,4,25366,2.67,1.01,Distribuidor
+Reino Unido,Powerade,2024,1,45036,0.52,0.6,Retail
+México,Coca-Cola Zero,2022,4,18369,2.45,0.68,Retail
+Rusia,Sprite,2024,6,12795,1.65,1.2,Distribuidor
+Argentina,Powerade,2023,7,5485,2.97,1.25,Online
+Nigeria,Schweppes,2023,7,42669,1.71,0.72,Distribuidor
+Estados Unidos,Fuze Tea,2022,7,3618,2.97,1.43,Retail
+Alemania,Del Valle,2024,3,31143,2.39,0.73,Distribuidor
+Canadá,Sprite,2023,6,30425,1.12,1.2,Online
+Reino Unido,Smartwater,2022,8,23673,1.85,0.83,Retail
+Australia,Sprite,2022,4,10603,2.98,1.37,Online
+Australia,Sprite,2023,8,40696,2.64,1.38,Distribuidor
+México,Powerade,2023,2,6368,0.74,0.31,Restaurantes
+Chile,Coca-Cola,2022,10,5621,2.27,1.42,Distribuidor
+Rusia,Minute Maid,2024,9,15719,1.36,1.27,Online
+Francia,Coca-Cola,2024,9,30227,0.52,1.23,Distribuidor
+Perú,Schweppes,2024,8,44894,1.51,0.46,Restaurantes
+Brasil,Smartwater,2022,10,8566,1.09,1.25,Online
+Estados Unidos,Fuze Tea,2023,10,13306,2.55,1.31,Distribuidor
+Estados Unidos,Fanta,2022,1,25042,1.34,0.58,Online
+Nigeria,Schweppes,2023,2,16086,2.57,1.44,Online
+Colombia,Fanta,2024,6,18387,0.5,0.26,Retail
+Alemania,Fanta,2024,10,28042,1.27,0.39,Retail
+Francia,Fuze Tea,2023,5,24888,1.1,0.9,Online
+Brasil,Coca-Cola Zero,2023,12,27514,1.08,0.95,Distribuidor
+Estados Unidos,Coca-Cola,2022,9,19323,0.67,1.04,Distribuidor
+Estados Unidos,Sprite,2024,5,19019,0.97,0.22,Distribuidor
+Japón,Del Valle,2022,2,10890,1.89,1.45,Restaurantes
+Argentina,Fanta,2022,10,41863,1.23,0.26,Online
+Colombia,Smartwater,2022,4,46487,1.54,0.39,Online
+Francia,Schweppes,2024,9,11283,1.44,0.22,Restaurantes
+Canadá,Coca-Cola Zero,2022,1,19279,2.69,0.94,Online
+Francia,Fanta,2022,11,47999,2.76,1.41,Online
+España,Coca-Cola Zero,2022,1,23908,1.73,1.07,Restaurantes
+México,Coca-Cola Zero,2022,12,48466,1.33,1.27,Retail
+Nigeria,Fanta,2022,7,38952,0.77,0.22,Online
+Perú,Powerade,2022,11,36170,2.88,0.9,Restaurantes
+Brasil,Minute Maid,2024,3,38663,0.65,0.8,Distribuidor
+Chile,Smartwater,2022,10,45172,1.24,0.85,Retail
+Japón,Sprite,2023,2,48929,1.25,0.29,Distribuidor
+Argentina,Sprite,2022,9,10343,1.3,1.09,Online
+México,Smartwater,2022,3,11637,0.91,0.85,Retail
+Nigeria,Powerade,2024,2,35724,2.46,1.19,Restaurantes
+Sudáfrica,Sprite,2024,12,40791,0.81,0.83,Online
+China,Coca-Cola Zero,2023,8,30134,2.09,0.39,Restaurantes
+Reino Unido,Fuze Tea,2023,10,47830,0.81,1.04,Retail
+Perú,Schweppes,2024,6,48101,0.68,0.42,Distribuidor
+Canadá,Coca-Cola,2024,6,4907,2.77,1.33,Online
+Colombia,Sprite,2022,10,34575,0.98,1,Online
+Reino Unido,Smartwater,2024,11,47799,2.55,0.4,Restaurantes
+Reino Unido,Fuze Tea,2023,7,5827,1.86,1.45,Retail
+Argentina,Fanta,2022,7,31607,0.69,0.87,Restaurantes
+Alemania,Minute Maid,2023,11,14699,2.89,0.29,Retail
+Sudáfrica,Smartwater,2022,6,38292,1.12,1.01,Online
+Brasil,Coca-Cola Zero,2024,4,48961,2.65,0.53,Retail
+Chile,Minute Maid,2023,11,26883,0.92,1.24,Online
+Brasil,Schweppes,2022,9,49991,2.63,1.26,Retail
+Australia,Schweppes,2022,6,6313,0.53,1.47,Distribuidor
+Reino Unido,Powerade,2024,4,14598,1.78,0.85,Retail
+Perú,Del Valle,2024,12,46826,2.42,0.79,Distribuidor
+Chile,Powerade,2024,3,29807,2.84,1.18,Retail
+China,Fuze Tea,2023,4,5887,2.77,0.37,Retail
+Alemania,Minute Maid,2022,3,4854,2.55,0.91,Restaurantes
+Francia,Del Valle,2024,2,46226,2.72,0.91,Restaurantes
+Chile,Fanta,2023,5,15536,1,0.32,Online
+Canadá,Coca-Cola Zero,2023,2,4558,1.21,0.74,Restaurantes
+Brasil,Minute Maid,2023,6,10772,1.22,1.31,Retail
+Sudáfrica,Powerade,2024,3,37343,1.44,1.31,Restaurantes
+Chile,Coca-Cola,2024,6,36186,1.48,0.33,Retail
+Chile,Del Valle,2022,11,37966,1.86,0.32,Distribuidor
+Rusia,Del Valle,2022,10,34769,0.9,0.54,Retail
+Australia,Coca-Cola Zero,2024,9,40887,2.23,1.34,Online
+Canadá,Sprite,2023,1,20229,0.92,0.37,Distribuidor
+Nigeria,Schweppes,2023,6,10673,1.28,1.14,Online
+Chile,Schweppes,2023,9,28877,1.76,0.33,Online
+Reino Unido,Coca-Cola,2022,11,32601,2.49,1.01,Online
+Francia,Fuze Tea,2023,4,39084,2.35,0.66,Restaurantes
+Sudáfrica,Fuze Tea,2022,11,17244,2.11,1.23,Online
+Nigeria,Fanta,2022,12,28356,0.89,0.5,Distribuidor
+Francia,Minute Maid,2023,2,17806,1.87,1.03,Retail
+Sudáfrica,Smartwater,2023,4,24099,0.72,0.51,Online
+China,Sprite,2024,1,45641,1.44,1.13,Distribuidor
+España,Powerade,2024,3,38034,1.53,1.34,Online
+Rusia,Smartwater,2023,10,41317,0.6,0.36,Retail
+Nigeria,Smartwater,2022,9,20094,1.18,1.33,Distribuidor
+Italia,Del Valle,2022,10,11589,2.89,0.97,Distribuidor
+Australia,Coca-Cola,2022,5,2657,2.88,0.37,Retail
+Alemania,Schweppes,2022,11,33764,1.38,0.76,Distribuidor
+Brasil,Fanta,2022,6,40531,0.61,0.41,Retail
+Francia,Fuze Tea,2024,3,4164,0.95,1.11,Distribuidor
+Rusia,Coca-Cola,2023,5,28542,1.48,1.19,Distribuidor
+Reino Unido,Del Valle,2024,11,19437,2.87,0.34,Retail
+Australia,Powerade,2022,8,42247,0.85,0.86,Retail
+China,Fanta,2022,6,39505,2.41,1.26,Distribuidor
+Canadá,Del Valle,2022,4,20601,0.77,1.42,Distribuidor
+Argentina,Schweppes,2022,2,29430,2.95,0.87,Retail
+China,Schweppes,2023,9,7009,1.45,1.44,Restaurantes
+España,Schweppes,2022,12,5552,2.44,0.9,Retail
+Alemania,Coca-Cola,2023,1,10417,1.36,0.71,Distribuidor
+Brasil,Coca-Cola,2022,1,42989,2.07,1.3,Distribuidor
+Colombia,Fuze Tea,2023,4,3671,0.98,0.84,Distribuidor
+Colombia,Fuze Tea,2024,7,7519,0.87,0.81,Retail
+Perú,Powerade,2022,1,37730,2.85,0.84,Distribuidor
+Italia,Fanta,2023,9,13734,2.79,1.3,Restaurantes
+Francia,Coca-Cola Zero,2024,4,46890,2.72,1.28,Online
+Sudáfrica,Coca-Cola Zero,2022,3,4722,2.06,0.72,Restaurantes
+Argentina,Del Valle,2022,1,5906,2.52,0.63,Retail
+Francia,Schweppes,2022,10,31096,0.67,0.84,Distribuidor
+Chile,Fanta,2023,4,41031,1.34,0.94,Retail
+India,Smartwater,2023,9,14699,1.28,0.51,Online
+China,Coca-Cola,2024,10,22438,2.09,1.23,Retail
+España,Minute Maid,2023,6,44856,1.39,0.83,Distribuidor
+Canadá,Sprite,2023,6,34576,0.87,0.63,Online
+Japón,Powerade,2022,1,42938,1.99,0.34,Online
+Argentina,Schweppes,2022,10,33247,2.54,0.51,Distribuidor
+Sudáfrica,Schweppes,2022,2,44461,1.46,1.43,Distribuidor
+Perú,Schweppes,2022,11,28938,0.83,0.6,Distribuidor
+México,Coca-Cola,2022,6,41469,0.99,0.42,Retail
+Alemania,Coca-Cola,2022,2,18600,1.09,0.8,Restaurantes
+Alemania,Sprite,2022,3,21435,1.25,0.6,Retail
+India,Smartwater,2024,4,19581,2.11,0.25,Retail
+Nigeria,Fanta,2024,11,15191,2,0.62,Restaurantes
+Japón,Schweppes,2024,5,20190,2.24,0.91,Distribuidor
+Australia,Coca-Cola Zero,2024,9,28386,1.41,0.92,Distribuidor
+Canadá,Fuze Tea,2022,12,32721,2.56,0.66,Restaurantes
+Estados Unidos,Coca-Cola Zero,2024,4,14704,1.01,0.78,Restaurantes
+Rusia,Del Valle,2022,11,3123,1.67,1.46,Retail
+Chile,Coca-Cola Zero,2024,9,26174,2.5,0.69,Online
+China,Del Valle,2023,11,45301,0.95,0.54,Restaurantes
+Canadá,Minute Maid,2024,10,48216,0.77,0.52,Retail
+Reino Unido,Fuze Tea,2024,3,15586,2.71,0.8,Online
+Reino Unido,Coca-Cola Zero,2022,8,32976,1.36,1.19,Distribuidor
+India,Minute Maid,2024,12,26416,2.21,0.47,Distribuidor
+Nigeria,Powerade,2023,1,2814,0.56,1.12,Retail
+Francia,Fanta,2022,11,14001,2.23,0.23,Retail
+China,Minute Maid,2022,9,17508,1.29,0.74,Restaurantes
+Argentina,Fanta,2024,9,20630,0.64,1.21,Distribuidor
+Nigeria,Coca-Cola Zero,2022,10,14380,2.02,0.64,Retail
+China,Smartwater,2022,2,49174,1.1,0.93,Distribuidor
+Brasil,Minute Maid,2022,4,36699,1.47,0.47,Distribuidor
+Canadá,Fuze Tea,2022,8,47335,0.7,1.16,Restaurantes
+Canadá,Coca-Cola Zero,2022,7,47806,0.87,0.27,Online
+Perú,Schweppes,2022,1,13317,1.24,1.31,Restaurantes
+Rusia,Coca-Cola,2023,5,36739,0.72,0.46,Retail
+Japón,Minute Maid,2024,7,35785,2.78,1.34,Restaurantes
+Sudáfrica,Fuze Tea,2023,4,32980,0.52,0.66,Restaurantes
+China,Powerade,2022,1,24799,1.71,1.14,Distribuidor
+Estados Unidos,Schweppes,2022,9,36183,0.81,0.61,Restaurantes
+Brasil,Powerade,2024,5,30166,1.27,1.38,Retail
+Canadá,Coca-Cola Zero,2023,11,20480,2.82,0.36,Online
+Chile,Coca-Cola,2024,2,2609,0.9,0.43,Restaurantes
+Estados Unidos,Minute Maid,2023,8,1717,2.91,0.84,Restaurantes
+India,Minute Maid,2022,11,20945,1.01,0.31,Online
+India,Smartwater,2024,2,26592,2.35,0.45,Retail
+Francia,Smartwater,2024,3,29141,1.87,1.43,Retail
+Canadá,Coca-Cola Zero,2022,10,31009,2.71,1.47,Restaurantes
+Canadá,Coca-Cola Zero,2024,1,46430,1.88,0.69,Distribuidor
+Italia,Coca-Cola,2023,11,7782,1.84,1.4,Restaurantes
+Australia,Smartwater,2023,2,27536,0.99,0.91,Online
+Colombia,Fuze Tea,2023,7,34816,0.92,0.55,Online
+Alemania,Fuze Tea,2023,10,26933,2.79,1.11,Online
+Reino Unido,Coca-Cola,2022,2,12618,1.32,1.06,Restaurantes
+Brasil,Fuze Tea,2024,6,9307,1.43,1.49,Restaurantes
+Nigeria,Del Valle,2023,3,27671,2.4,0.54,Retail
+Rusia,Fanta,2022,4,41673,1.35,1.07,Distribuidor
+Perú,Coca-Cola,2024,11,43761,2.88,0.27,Restaurantes
+Italia,Coca-Cola,2024,8,11338,2.34,0.35,Retail
+Sudáfrica,Sprite,2022,3,39346,1.99,0.21,Restaurantes
+Chile,Schweppes,2022,10,47602,2.7,1.5,Retail
+España,Schweppes,2023,6,7548,0.62,1.24,Retail
+Italia,Del Valle,2024,1,41149,1.14,1.22,Distribuidor
+Estados Unidos,Smartwater,2024,7,22164,1.66,0.86,Restaurantes
+Brasil,Coca-Cola Zero,2022,8,28526,1.07,0.59,Retail
+Australia,Coca-Cola Zero,2024,11,32222,2.36,0.4,Online
+Colombia,Powerade,2023,8,21176,2.8,0.57,Online
+Francia,Del Valle,2024,3,3941,1.56,0.69,Online
+Argentina,Coca-Cola,2022,10,6695,1.36,1.18,Distribuidor
+Australia,Del Valle,2022,1,40169,2.9,0.9,Retail
+Japón,Del Valle,2023,9,48947,1.61,0.3,Distribuidor
+India,Del Valle,2023,6,48224,1.72,0.22,Restaurantes
+Francia,Schweppes,2024,11,46865,1.38,0.33,Restaurantes
+Japón,Del Valle,2024,9,26553,2.77,0.73,Retail
+Reino Unido,Fanta,2022,7,39965,1.92,1.41,Online
+Japón,Coca-Cola Zero,2023,1,39218,2.41,1.03,Retail
+Perú,Powerade,2023,12,26359,2.53,1.24,Retail
+Alemania,Fanta,2023,12,25816,1.35,0.81,Retail
+Sudáfrica,Powerade,2024,1,9378,1.58,0.67,Distribuidor
+Reino Unido,Sprite,2023,6,2881,2.62,0.34,Restaurantes
+Chile,Powerade,2022,5,40567,1.41,1.34,Retail
+Sudáfrica,Coca-Cola Zero,2022,9,48365,2.48,1.22,Retail
+Estados Unidos,Coca-Cola Zero,2024,2,14675,2.85,0.42,Retail
+Rusia,Del Valle,2024,8,5586,2.06,0.87,Distribuidor
+Canadá,Minute Maid,2023,11,26006,2.35,0.83,Distribuidor
+Australia,Sprite,2024,5,42198,2.51,1.01,Distribuidor
+Canadá,Coca-Cola,2022,2,23831,2.61,1.43,Retail
+España,Fuze Tea,2023,10,36113,1.49,0.95,Online
+Brasil,Powerade,2022,11,17459,0.63,0.9,Online
+India,Minute Maid,2023,11,33443,1.5,0.27,Online
+Perú,Del Valle,2024,12,43316,2.18,0.28,Restaurantes
+Nigeria,Schweppes,2023,6,31595,1.63,0.44,Retail
+Alemania,Coca-Cola,2023,10,6877,2.37,0.24,Online
+Italia,Smartwater,2022,8,40553,1.39,1.17,Online
+México,Minute Maid,2022,4,49601,2.09,1.14,Online
+Argentina,Schweppes,2023,2,5922,0.97,0.38,Retail
+Perú,Sprite,2024,12,5686,2.37,1.29,Online
+Canadá,Del Valle,2024,11,33766,1.86,0.4,Online
+Alemania,Coca-Cola,2022,5,15407,1.01,0.59,Retail
+Estados Unidos,Coca-Cola,2024,12,33006,1.23,0.52,Restaurantes
+Estados Unidos,Coca-Cola,2022,2,32422,2.37,0.68,Distribuidor
+Perú,Sprite,2024,2,13205,1.71,0.53,Online
+Italia,Powerade,2023,6,22054,1.04,0.84,Distribuidor
+Chile,Smartwater,2022,11,24527,2.92,0.73,Restaurantes
+Colombia,Sprite,2022,10,46947,2.29,1.48,Restaurantes
+Chile,Fuze Tea,2023,9,19443,2.89,0.27,Online
+Canadá,Smartwater,2022,4,17524,1.57,0.38,Retail
+Estados Unidos,Coca-Cola Zero,2024,6,29202,1.69,0.27,Restaurantes
+México,Del Valle,2024,7,1016,2.74,1.01,Distribuidor
+Sudáfrica,Sprite,2022,11,47142,1.81,0.27,Distribuidor
+Brasil,Schweppes,2024,6,17848,2.27,1.29,Distribuidor
+Estados Unidos,Smartwater,2022,8,21855,1.13,0.87,Distribuidor
+Australia,Fuze Tea,2023,4,19211,1.62,0.89,Restaurantes
+India,Coca-Cola Zero,2022,12,26095,0.81,0.93,Online
+Chile,Powerade,2023,1,39724,1.01,0.42,Online
+Alemania,Schweppes,2024,7,38583,0.5,0.46,Distribuidor
+Alemania,Smartwater,2023,3,3843,0.6,0.61,Online
+India,Del Valle,2024,6,30301,2.94,0.97,Distribuidor
+Brasil,Schweppes,2022,2,27460,1.11,0.47,Distribuidor
+Alemania,Coca-Cola Zero,2024,9,32918,2.16,0.35,Retail
+Alemania,Schweppes,2022,1,29747,2.6,1.46,Restaurantes
+Argentina,Fanta,2022,6,16972,1.88,0.23,Restaurantes
+Argentina,Minute Maid,2023,6,29310,0.88,1.24,Distribuidor
+Nigeria,Powerade,2023,5,23927,2.32,1.22,Restaurantes
+Chile,Coca-Cola Zero,2023,5,2094,2,0.59,Online
+España,Schweppes,2023,1,39892,2.33,0.38,Distribuidor
+Sudáfrica,Minute Maid,2024,10,35172,2.42,0.39,Retail
+España,Minute Maid,2024,12,24324,2.94,1.11,Online
+Estados Unidos,Schweppes,2024,5,21674,1.93,1.04,Retail
+Nigeria,Del Valle,2022,2,4982,1.35,1.22,Retail
+Canadá,Fanta,2024,7,46283,2.12,1.42,Restaurantes
+Canadá,Sprite,2024,3,16790,0.67,1.1,Restaurantes
+Reino Unido,Fanta,2024,4,13205,2.74,0.4,Distribuidor
+Estados Unidos,Schweppes,2023,3,25338,0.8,0.52,Restaurantes
+Chile,Powerade,2024,3,13748,1.32,1.29,Retail
+Japón,Sprite,2022,4,22097,2.54,0.47,Retail
+México,Coca-Cola Zero,2023,5,4092,1.99,0.29,Online
+Japón,Fanta,2022,1,23692,1.48,1.11,Retail
+China,Schweppes,2024,4,24862,1.68,0.72,Distribuidor
+México,Fanta,2023,12,25860,2.64,1.4,Distribuidor
+Brasil,Sprite,2022,12,14971,1.35,1.05,Restaurantes
+Perú,Fuze Tea,2024,11,15616,2.67,0.32,Restaurantes
+Francia,Smartwater,2022,8,5933,0.72,1.43,Restaurantes
+Estados Unidos,Fanta,2022,10,5926,2.44,0.54,Distribuidor
+Francia,Coca-Cola Zero,2022,7,26763,2.62,0.64,Retail
+Alemania,Coca-Cola Zero,2024,9,4969,0.95,0.72,Restaurantes
+Chile,Coca-Cola,2024,5,36733,1.58,0.27,Online
+Australia,Fanta,2022,10,5319,0.91,0.85,Restaurantes
+Italia,Smartwater,2023,4,42743,2.27,0.36,Distribuidor
+Italia,Del Valle,2023,8,40876,1.84,0.72,Restaurantes
+Alemania,Minute Maid,2024,9,42909,2.09,0.66,Retail
+España,Smartwater,2024,7,21323,0.99,1.2,Restaurantes
+México,Minute Maid,2024,7,17428,1.03,1.24,Distribuidor
+Colombia,Minute Maid,2024,5,35578,0.6,0.4,Distribuidor
+Nigeria,Fuze Tea,2024,4,21950,1.31,0.68,Online
+China,Coca-Cola,2023,10,44041,1.9,0.69,Distribuidor
+India,Smartwater,2024,1,42789,2.64,0.4,Online
+México,Smartwater,2022,10,19293,2.17,1.24,Retail
+India,Fuze Tea,2022,10,7364,1.59,1.12,Distribuidor
+Perú,Fanta,2023,7,36349,2.88,0.45,Restaurantes
+México,Fanta,2022,1,1691,2.3,0.68,Retail
+Perú,Fanta,2023,1,31062,2.83,0.34,Restaurantes
+Italia,Powerade,2023,5,1931,1.82,1.02,Restaurantes
+Nigeria,Minute Maid,2022,9,46896,1.15,0.36,Restaurantes
+México,Powerade,2024,6,32730,0.63,1.48,Retail
+Rusia,Coca-Cola,2022,3,15226,2.32,1.21,Retail
+India,Fuze Tea,2022,3,14861,0.8,0.71,Distribuidor
+Estados Unidos,Smartwater,2023,7,32301,1.26,0.95,Restaurantes
+Italia,Minute Maid,2022,6,49243,1.83,1.38,Online
+Argentina,Powerade,2023,9,23766,1.91,0.92,Distribuidor
+Nigeria,Powerade,2024,6,37174,2,0.43,Retail
+Chile,Schweppes,2024,5,42107,0.92,0.69,Online
+Alemania,Powerade,2024,10,18695,1.45,1.3,Retail
+Reino Unido,Del Valle,2022,7,42347,2.04,1.04,Online
+Argentina,Smartwater,2023,1,4121,2.92,1.05,Distribuidor
+Chile,Del Valle,2024,12,19257,2.32,1.33,Online
+Argentina,Smartwater,2023,7,29164,2.81,1.36,Distribuidor
+Chile,Fuze Tea,2023,3,26491,2.41,1.4,Retail
+Rusia,Smartwater,2024,9,24165,1.98,0.32,Online
+Alemania,Del Valle,2024,6,49714,0.98,0.91,Restaurantes
+México,Smartwater,2023,9,4748,2.17,1.16,Restaurantes
+India,Fuze Tea,2024,5,34045,2.06,1.18,Retail
+México,Fuze Tea,2023,7,27553,2.01,0.99,Online
+Canadá,Coca-Cola,2023,4,45331,1.72,0.42,Restaurantes
+Colombia,Smartwater,2024,7,31497,1.82,1.24,Distribuidor
+Colombia,Schweppes,2022,1,32308,1.34,1.14,Online
+Australia,Fanta,2024,7,40560,1.8,0.31,Online
+Colombia,Coca-Cola Zero,2022,8,47686,0.99,0.8,Restaurantes
+Nigeria,Fuze Tea,2023,5,11374,2.51,0.43,Distribuidor
+Italia,Sprite,2023,2,5675,0.96,0.64,Distribuidor
+Australia,Fanta,2022,5,2170,0.71,0.22,Distribuidor
+Colombia,Minute Maid,2023,6,42449,1.59,0.72,Online
+Australia,Smartwater,2022,12,44485,2.15,0.91,Retail
+Japón,Del Valle,2022,2,13450,1.59,1.01,Online
+Reino Unido,Coca-Cola Zero,2023,6,11680,1.19,1.06,Online
+Japón,Sprite,2022,6,11068,1.9,1.29,Restaurantes
+Reino Unido,Fanta,2024,1,36230,1.37,0.48,Retail
+Brasil,Smartwater,2024,1,47418,2.83,0.36,Distribuidor
+Brasil,Coca-Cola,2023,11,27206,2.81,1.31,Restaurantes
+Perú,Minute Maid,2023,10,1287,1.76,0.4,Online
+Nigeria,Coca-Cola Zero,2022,3,23337,1.32,1.47,Retail
+Nigeria,Schweppes,2022,10,21666,2.34,1.3,Distribuidor
+Alemania,Coca-Cola,2022,10,2161,0.59,0.85,Distribuidor
+Perú,Sprite,2022,12,36131,1.69,1.48,Online
+Argentina,Coca-Cola Zero,2024,3,25535,1.34,0.33,Distribuidor
+India,Coca-Cola,2024,4,33528,2.8,0.59,Distribuidor
+Estados Unidos,Minute Maid,2023,2,39751,0.53,1.03,Retail
+Alemania,Schweppes,2022,9,17527,1.88,0.66,Restaurantes
+Sudáfrica,Coca-Cola,2022,10,41975,2.35,1.41,Retail
+Francia,Powerade,2023,12,24853,1.71,0.29,Restaurantes
+España,Schweppes,2022,11,15758,0.71,0.91,Restaurantes
+México,Sprite,2022,7,1244,2.93,0.97,Restaurantes
+Chile,Minute Maid,2022,7,4178,1.8,1.05,Distribuidor
+España,Smartwater,2022,6,32831,2.04,0.53,Retail
+Canadá,Del Valle,2022,3,3176,1.09,0.67,Distribuidor
+Sudáfrica,Del Valle,2023,6,38770,1.71,1.3,Online
+Italia,Del Valle,2022,12,34654,1.57,0.45,Retail
+Italia,Coca-Cola Zero,2023,8,27627,0.69,1.27,Restaurantes
+Colombia,Sprite,2022,8,47489,0.77,0.93,Distribuidor
+Australia,Minute Maid,2024,11,45910,2.59,1.19,Distribuidor
+Chile,Schweppes,2024,9,25881,1.1,1.13,Retail
+Reino Unido,Coca-Cola Zero,2024,1,36422,0.99,0.47,Retail
+Estados Unidos,Sprite,2024,1,12984,1.76,0.94,Restaurantes
+Japón,Smartwater,2023,3,24776,2.42,1.33,Restaurantes
+Chile,Powerade,2023,3,18755,0.65,0.76,Online
+Brasil,Minute Maid,2022,10,8135,1.94,1.46,Restaurantes
+Rusia,Del Valle,2024,8,1320,0.8,0.79,Distribuidor
+Italia,Coca-Cola,2023,10,38422,0.59,0.39,Online
+Italia,Minute Maid,2022,1,29635,0.63,0.71,Online
+España,Fuze Tea,2022,2,22684,2.59,1.44,Online
+España,Sprite,2023,2,24238,0.79,0.62,Retail
+México,Fanta,2024,3,22889,0.61,1.33,Restaurantes
+Canadá,Smartwater,2022,6,31313,1.59,1.35,Online
+España,Powerade,2024,1,33535,2.61,0.66,Retail
+Nigeria,Smartwater,2024,2,49899,1.16,0.31,Retail
+China,Minute Maid,2024,1,11770,1.55,1.14,Online
+Brasil,Fanta,2022,5,40321,0.6,0.6,Online
+Italia,Fuze Tea,2024,7,21426,1.62,1.22,Distribuidor
+España,Schweppes,2022,8,45327,1.94,0.78,Online
+Colombia,Coca-Cola,2024,10,42777,1.93,0.83,Distribuidor
+Italia,Fanta,2022,1,47250,1.33,1.21,Online
+Canadá,Sprite,2024,7,8498,1.29,0.7,Online
+Perú,Del Valle,2023,5,40404,0.77,0.78,Restaurantes
+India,Fuze Tea,2024,10,41130,1.42,0.69,Online
+Brasil,Coca-Cola,2024,1,17395,0.75,0.68,Online
+Nigeria,Powerade,2022,3,3537,2.42,0.88,Distribuidor
+Italia,Del Valle,2022,7,20226,2.92,1.25,Distribuidor
+Alemania,Minute Maid,2024,10,16216,2.93,0.67,Restaurantes
+Argentina,Fanta,2023,1,19613,2.66,0.88,Online
+China,Coca-Cola,2023,7,4009,2,1.07,Online
+Chile,Coca-Cola Zero,2022,5,25368,2.25,0.55,Distribuidor
+China,Schweppes,2023,1,30327,1.21,0.56,Retail
+Francia,Schweppes,2024,1,15209,2.08,1.41,Retail
+Chile,Fuze Tea,2022,1,49443,1.64,1.14,Retail
+Canadá,Powerade,2024,11,16029,1.71,0.95,Distribuidor
+Rusia,Fuze Tea,2022,9,3077,2.39,1.04,Distribuidor
+Reino Unido,Coca-Cola Zero,2022,11,14907,1.2,0.24,Retail
+Argentina,Sprite,2022,3,37635,1.3,1,Retail
+Brasil,Powerade,2022,5,49920,2.81,0.86,Online
+Sudáfrica,Smartwater,2023,11,5873,0.64,0.91,Distribuidor
+Canadá,Sprite,2024,10,9635,1.71,0.67,Distribuidor
+Perú,Powerade,2024,12,34065,2.78,0.31,Retail
+Italia,Powerade,2024,9,46863,2.03,0.45,Retail
+Reino Unido,Coca-Cola Zero,2022,6,42804,1.87,1.44,Restaurantes
+Italia,Minute Maid,2023,12,34783,1.12,0.73,Distribuidor
+México,Coca-Cola Zero,2024,9,35152,1.36,0.81,Restaurantes
+Italia,Powerade,2023,8,42513,2.63,0.27,Online
+Japón,Coca-Cola,2022,8,30092,1.9,0.25,Restaurantes
+Japón,Sprite,2024,1,18653,1.79,1.13,Retail
+Chile,Coca-Cola Zero,2023,9,33463,0.75,0.9,Distribuidor
+Francia,Minute Maid,2022,6,35028,0.54,0.86,Distribuidor
+Nigeria,Fanta,2023,9,41469,2.91,0.52,Restaurantes
+Argentina,Fuze Tea,2024,3,21947,1.44,1.17,Restaurantes
+Sudáfrica,Powerade,2024,12,30978,2.01,0.42,Online
+Alemania,Smartwater,2022,3,23056,0.7,0.45,Online
+India,Fanta,2022,6,30007,2.21,0.8,Retail
+Rusia,Schweppes,2022,9,44169,2.83,0.57,Retail
+México,Del Valle,2023,7,49287,1.94,0.52,Retail
+Canadá,Minute Maid,2023,3,45632,0.82,1.04,Restaurantes
+India,Smartwater,2023,3,49449,1.95,1.05,Restaurantes
+Alemania,Del Valle,2022,2,6543,2.42,1.27,Distribuidor
+Estados Unidos,Minute Maid,2024,9,22067,1.52,0.74,Retail
+India,Coca-Cola,2024,3,46256,2.7,0.3,Restaurantes
+India,Fuze Tea,2023,11,26097,2.12,0.56,Distribuidor
+Australia,Fanta,2023,5,43847,2.75,1.47,Retail
+Reino Unido,Sprite,2024,9,44512,2.06,0.98,Online
+Colombia,Minute Maid,2024,8,4809,0.83,1.12,Online
+Sudáfrica,Sprite,2023,2,23191,1.27,0.21,Restaurantes
+Brasil,Fuze Tea,2023,3,22267,1,0.87,Distribuidor
+Nigeria,Powerade,2024,2,8206,2.77,0.25,Online
+Japón,Schweppes,2022,8,22057,2.4,0.94,Distribuidor
+Alemania,Fanta,2023,6,29992,2.19,1.4,Distribuidor
+Reino Unido,Fuze Tea,2024,6,47514,1.25,1.46,Online
+India,Fuze Tea,2024,12,16995,0.96,0.9,Distribuidor
+México,Coca-Cola,2024,9,49803,2.39,0.8,Online
+Rusia,Del Valle,2024,8,45439,1.69,1.43,Restaurantes
+Colombia,Schweppes,2022,4,14210,1.06,1.08,Retail
+Reino Unido,Fanta,2024,12,18793,2.04,0.28,Retail
+Italia,Powerade,2023,4,27270,0.6,0.81,Restaurantes
+India,Powerade,2022,9,6197,1.32,0.51,Online
+Chile,Coca-Cola Zero,2024,1,49321,1.67,0.81,Online
+India,Fuze Tea,2022,2,8452,0.87,0.79,Online
+Nigeria,Minute Maid,2023,2,42486,2.96,0.96,Online
+México,Coca-Cola,2024,6,15859,1.02,0.66,Restaurantes
+Italia,Schweppes,2023,4,28236,0.83,0.41,Retail
+Colombia,Powerade,2024,11,32899,1.01,0.85,Distribuidor
+Japón,Fanta,2024,10,33083,2.42,1.28,Distribuidor
+Nigeria,Coca-Cola Zero,2024,3,3172,1.56,1.06,Retail
+Canadá,Fanta,2024,3,46926,1.91,0.64,Restaurantes
+Francia,Coca-Cola,2024,3,17663,0.55,1.42,Distribuidor
+Alemania,Minute Maid,2022,6,28540,0.59,1.39,Retail
+India,Coca-Cola Zero,2024,8,20053,1.61,0.47,Restaurantes
+Reino Unido,Coca-Cola Zero,2024,11,12085,2.54,0.25,Distribuidor
+Nigeria,Del Valle,2022,7,31564,2.71,1.16,Online
+Rusia,Schweppes,2022,4,25209,0.72,1.28,Online
+Estados Unidos,Coca-Cola Zero,2022,11,4981,1.85,1.46,Restaurantes
+Rusia,Del Valle,2022,12,22153,2.78,1.36,Online
+Chile,Del Valle,2022,4,6247,1.47,0.98,Restaurantes
+Francia,Coca-Cola,2022,11,11553,2.57,0.89,Retail
+Italia,Sprite,2024,10,21811,0.83,0.24,Retail
+Estados Unidos,Fanta,2024,11,30845,2.84,0.52,Distribuidor
+España,Minute Maid,2023,11,7135,2.38,0.8,Restaurantes
+India,Smartwater,2024,11,6573,2.85,1.02,Distribuidor
+Alemania,Fanta,2024,2,14731,2.19,0.92,Distribuidor
+Colombia,Coca-Cola Zero,2022,1,8189,1.41,1.17,Retail
+Reino Unido,Minute Maid,2022,9,15541,2.85,0.56,Distribuidor
+Canadá,Powerade,2024,12,44646,1.19,0.93,Online
+Colombia,Sprite,2023,12,12087,1.33,0.31,Distribuidor
+Brasil,Powerade,2022,2,47435,2.25,0.74,Restaurantes
+Estados Unidos,Powerade,2024,8,3776,2.41,1.18,Online
+India,Schweppes,2024,9,43079,2.82,1.1,Retail
+Perú,Fanta,2023,4,28564,1.01,1.49,Restaurantes
+Argentina,Smartwater,2023,8,29835,2.49,0.56,Online
+Alemania,Coca-Cola,2022,9,8697,2.35,0.85,Restaurantes
+Argentina,Smartwater,2023,10,15629,0.66,0.63,Online
+Francia,Powerade,2024,10,9386,1.47,0.77,Restaurantes
+México,Coca-Cola Zero,2024,5,18046,1.21,1.31,Restaurantes
+Canadá,Sprite,2023,7,9044,1.26,1.09,Online
+Japón,Fuze Tea,2023,10,10615,2.96,1.35,Retail
+México,Smartwater,2023,4,48802,2.11,0.46,Retail
+Rusia,Powerade,2023,1,6060,2.29,1.34,Restaurantes
+Estados Unidos,Sprite,2022,3,11900,2.94,0.28,Restaurantes
+Alemania,Minute Maid,2023,5,6581,1.44,1.36,Retail
+Sudáfrica,Fanta,2022,3,35782,2.5,0.63,Retail
+Chile,Del Valle,2024,12,21173,1.59,0.61,Distribuidor
+Sudáfrica,Schweppes,2023,11,13997,2.67,0.87,Retail
+Colombia,Sprite,2022,7,44403,0.95,1.42,Restaurantes
+Italia,Coca-Cola Zero,2023,12,47416,2.87,0.26,Online
+India,Coca-Cola Zero,2024,9,8148,1.05,0.66,Retail
+Brasil,Sprite,2024,12,19748,1.32,1.31,Distribuidor
+Chile,Coca-Cola Zero,2024,6,15022,2.39,0.71,Distribuidor
+Alemania,Fanta,2023,10,21013,1.48,0.46,Distribuidor
+Francia,Coca-Cola Zero,2023,1,39687,2.02,0.75,Online
+Perú,Smartwater,2022,7,16886,1.61,0.7,Retail
+España,Del Valle,2024,3,26256,2.36,1.39,Retail
+Colombia,Coca-Cola Zero,2023,5,31005,1.07,1.19,Retail
+Sudáfrica,Del Valle,2024,10,7638,0.65,0.86,Online
+México,Powerade,2024,4,38419,1.25,1.48,Online
+Francia,Coca-Cola,2022,10,34377,1.69,0.8,Restaurantes
+Brasil,Fanta,2022,5,41708,0.92,0.28,Distribuidor
+Brasil,Coca-Cola,2022,5,44116,1.39,0.54,Distribuidor
+Estados Unidos,Powerade,2022,6,37634,1.5,0.77,Retail
+Japón,Fanta,2024,10,17755,0.64,0.4,Online
+Japón,Sprite,2022,12,24382,1.96,1.43,Online
+Colombia,Sprite,2022,10,23394,2.71,1.2,Retail
+Sudáfrica,Del Valle,2022,11,3253,0.88,0.55,Retail
+Alemania,Powerade,2022,6,38710,1.99,0.97,Restaurantes
+España,Del Valle,2024,8,46098,2.16,1.14,Distribuidor
+Brasil,Schweppes,2022,8,1864,1.55,1.42,Distribuidor
+Alemania,Coca-Cola Zero,2024,11,35036,2.25,1.35,Distribuidor
+Alemania,Fuze Tea,2023,9,41222,1.53,0.87,Restaurantes
+Nigeria,Schweppes,2024,8,14666,1.76,1.21,Retail
+España,Coca-Cola Zero,2024,11,21955,0.52,0.93,Retail
+Reino Unido,Fanta,2022,2,46138,2.23,0.92,Distribuidor
+Canadá,Del Valle,2023,12,38997,2.15,0.35,Distribuidor
+Argentina,Fanta,2023,10,17309,0.6,0.36,Restaurantes
+Perú,Fanta,2023,12,5054,1.42,0.89,Online
+Japón,Coca-Cola Zero,2023,11,1935,2.95,0.55,Online
+Japón,Powerade,2024,1,45940,1.55,0.23,Distribuidor
+China,Coca-Cola Zero,2023,10,23778,1.75,1.14,Restaurantes
+Japón,Minute Maid,2024,2,44298,2.77,0.24,Distribuidor
+España,Sprite,2024,2,49328,2.29,0.97,Online
+Nigeria,Sprite,2024,12,49924,1.96,0.9,Distribuidor
+India,Schweppes,2023,3,17709,2.49,1.46,Online
+Estados Unidos,Sprite,2022,10,10726,2.66,0.83,Online
+Italia,Coca-Cola Zero,2022,7,41542,1.64,0.28,Online
+Estados Unidos,Smartwater,2023,2,21245,1.69,0.92,Retail
+Chile,Del Valle,2022,1,35753,1.47,1.29,Retail
+Estados Unidos,Coca-Cola Zero,2022,6,15252,2.92,1.5,Distribuidor
+Italia,Coca-Cola Zero,2024,9,22316,2.24,0.76,Online
+México,Fuze Tea,2024,3,38371,0.71,0.62,Retail
+España,Del Valle,2023,6,20162,2.66,1.38,Distribuidor
+Japón,Minute Maid,2023,3,16960,1.7,0.45,Distribuidor
+Japón,Sprite,2022,1,31791,0.67,1,Distribuidor
+Nigeria,Del Valle,2024,12,43230,1.87,0.73,Distribuidor
+China,Sprite,2023,5,26216,1.54,0.25,Distribuidor
+Nigeria,Schweppes,2023,10,33467,2.69,0.65,Restaurantes
+India,Del Valle,2023,11,47934,1.01,0.54,Online
+India,Sprite,2023,4,8754,2.57,1.09,Distribuidor
+Brasil,Minute Maid,2023,7,48014,1.89,1.43,Restaurantes
+China,Coca-Cola,2023,6,5078,0.64,0.55,Online
+Nigeria,Fanta,2022,10,13853,2.93,1.25,Retail
+Japón,Fanta,2024,7,5042,1.78,0.27,Distribuidor
+Argentina,Minute Maid,2024,5,15389,1.23,0.9,Restaurantes
+Rusia,Fuze Tea,2023,4,31425,1.67,0.29,Retail
+Italia,Coca-Cola,2024,7,3575,2.64,1.41,Restaurantes
+Italia,Schweppes,2024,7,40522,1.26,1.2,Online
+Estados Unidos,Minute Maid,2024,6,29179,0.98,1.06,Online
+Rusia,Fanta,2023,8,35754,0.82,1.27,Retail
+China,Fanta,2023,4,19624,1.24,1.04,Restaurantes
+Reino Unido,Fanta,2024,10,21350,2.45,1.46,Distribuidor
+India,Powerade,2024,5,27681,1.68,1.13,Distribuidor
+Estados Unidos,Minute Maid,2023,4,24988,1.07,1.4,Retail
+Alemania,Coca-Cola Zero,2022,12,16470,0.92,0.87,Retail
+Estados Unidos,Schweppes,2024,1,25704,1.33,0.35,Retail
+Reino Unido,Fanta,2022,12,39736,2.85,0.89,Restaurantes
+México,Sprite,2024,8,30377,1.36,0.36,Distribuidor
+Argentina,Minute Maid,2022,1,29572,2.97,0.97,Distribuidor
+Alemania,Powerade,2022,5,8493,1.71,0.83,Distribuidor
+Argentina,Minute Maid,2022,6,5103,0.95,1.01,Retail
+Estados Unidos,Schweppes,2023,6,35844,2.73,0.21,Distribuidor
+India,Powerade,2022,5,3994,1.65,0.45,Online
+Canadá,Schweppes,2022,3,4744,2.27,0.84,Retail
+Italia,Minute Maid,2022,5,48234,2.96,1.44,Distribuidor
+Reino Unido,Coca-Cola Zero,2024,12,48291,0.63,0.7,Restaurantes
+Canadá,Schweppes,2022,8,28332,0.74,0.75,Retail
+Rusia,Powerade,2024,2,6594,2.3,1.13,Online
+Italia,Powerade,2022,6,41299,1.2,0.98,Online
+Japón,Schweppes,2022,9,8371,0.96,0.59,Restaurantes
+Alemania,Smartwater,2023,8,48315,0.6,0.73,Restaurantes
+Italia,Minute Maid,2024,11,19028,0.55,0.48,Retail
+Reino Unido,Smartwater,2022,8,36912,2.44,1.46,Retail
+Francia,Fuze Tea,2024,8,14990,0.84,0.37,Online
+Canadá,Minute Maid,2024,7,47851,1.67,0.68,Restaurantes
+México,Schweppes,2023,8,17626,2.01,0.23,Retail
+Nigeria,Coca-Cola,2023,6,21469,1.57,0.49,Online
+Nigeria,Schweppes,2023,2,41722,0.57,1.21,Restaurantes
+Reino Unido,Smartwater,2023,2,41037,2.46,0.46,Online
+Reino Unido,Coca-Cola Zero,2023,8,8130,0.53,0.3,Distribuidor
+Colombia,Schweppes,2023,11,7828,2.4,0.82,Restaurantes
+Alemania,Schweppes,2023,1,42612,2.73,0.21,Retail
+Rusia,Coca-Cola Zero,2023,6,47988,1.58,0.31,Retail
+Colombia,Schweppes,2022,6,40099,1.84,1.25,Distribuidor
+Argentina,Fanta,2024,11,47165,1.69,1.2,Restaurantes
+Japón,Coca-Cola,2023,4,18883,1.47,1.39,Online
+India,Sprite,2023,12,44059,2.72,1.31,Retail
+India,Coca-Cola,2024,11,19542,2.73,1.09,Distribuidor
+Japón,Schweppes,2022,11,43932,1.34,0.27,Distribuidor
+Italia,Fanta,2024,10,11450,2.04,1.22,Restaurantes
+España,Minute Maid,2024,3,21423,2.82,1.3,Restaurantes
+Colombia,Schweppes,2023,11,3035,2.91,1.24,Retail
+Francia,Smartwater,2024,3,45231,1.77,0.86,Distribuidor
+Canadá,Fanta,2024,1,41745,1.63,0.5,Online
+Japón,Coca-Cola Zero,2023,3,18241,1.2,1.3,Distribuidor
+Perú,Fanta,2023,4,24154,2.9,1.15,Online
+Estados Unidos,Coca-Cola Zero,2023,11,26625,0.86,1.47,Online
+Italia,Fuze Tea,2023,11,45950,1.95,0.4,Retail
+Japón,Sprite,2024,5,34066,1.21,0.49,Distribuidor
+Colombia,Del Valle,2024,3,34691,1.2,0.48,Online
+Francia,Fanta,2022,6,14331,1.51,1.23,Restaurantes
+Francia,Powerade,2022,11,21690,3,0.44,Online
+Reino Unido,Smartwater,2024,12,20183,0.64,0.29,Restaurantes
+Australia,Schweppes,2022,5,40346,1.95,1.5,Restaurantes
+Reino Unido,Smartwater,2024,3,5875,0.71,0.23,Distribuidor
+Alemania,Coca-Cola,2022,6,13254,0.89,1.29,Restaurantes
+Alemania,Del Valle,2023,6,29621,1.6,0.67,Online
+Japón,Coca-Cola,2022,8,11905,1.78,1.29,Restaurantes
+Argentina,Fuze Tea,2023,2,47121,1.15,0.92,Distribuidor
+Chile,Del Valle,2023,1,16882,1.29,1.37,Retail
+Sudáfrica,Del Valle,2023,4,20041,0.72,1.4,Online
+Nigeria,Coca-Cola,2023,7,30098,1.26,0.21,Online
+España,Coca-Cola Zero,2022,11,43431,2.92,0.3,Distribuidor
+Japón,Coca-Cola,2024,10,34709,2.86,0.53,Distribuidor
+Sudáfrica,Smartwater,2023,3,35675,1.34,1.07,Distribuidor
+Colombia,Coca-Cola Zero,2022,3,5837,1.93,1.35,Distribuidor
+Estados Unidos,Smartwater,2023,5,47448,2.77,0.8,Online
+España,Fuze Tea,2022,5,25489,0.52,0.99,Retail
+Alemania,Schweppes,2022,10,18627,2.53,0.45,Restaurantes
+España,Minute Maid,2022,3,6696,2.87,1.25,Restaurantes
+Reino Unido,Coca-Cola Zero,2024,9,49994,0.73,1.46,Retail
+Estados Unidos,Fuze Tea,2022,4,14543,0.9,0.55,Retail
+Nigeria,Powerade,2022,3,13615,2.9,0.84,Retail
+Japón,Fuze Tea,2024,11,2466,1.84,0.31,Distribuidor
+Italia,Coca-Cola,2024,2,31771,0.54,0.93,Online
+Italia,Coca-Cola,2022,10,19350,1.14,0.85,Online
+Sudáfrica,Minute Maid,2024,11,1375,1.62,0.39,Online
+Sudáfrica,Fuze Tea,2023,9,34030,2.23,0.77,Distribuidor
+Argentina,Sprite,2023,4,21746,2.33,0.63,Online
+Rusia,Schweppes,2024,3,23886,2.99,0.88,Distribuidor
+Sudáfrica,Coca-Cola,2024,7,45348,1.22,0.96,Online
+Brasil,Minute Maid,2022,8,43904,1.85,0.21,Retail
+Rusia,Schweppes,2024,11,33651,1.83,1.19,Restaurantes
+Colombia,Fuze Tea,2022,2,8833,1.51,1.13,Restaurantes
+India,Fuze Tea,2023,7,2893,0.92,0.68,Distribuidor
+México,Del Valle,2024,12,31573,2.94,0.27,Online
+China,Minute Maid,2022,5,32371,2.63,1.18,Restaurantes
+Perú,Coca-Cola,2022,11,41874,1.75,1.44,Retail
+México,Sprite,2023,5,12826,2.01,0.51,Retail
+Chile,Fuze Tea,2024,3,35420,1.07,0.62,Retail
+Colombia,Sprite,2023,5,22924,1.86,0.44,Distribuidor
+Francia,Fuze Tea,2022,12,34367,2.24,0.95,Distribuidor
+Nigeria,Coca-Cola,2022,2,22199,1.79,0.4,Online
+China,Schweppes,2024,4,26868,2.98,0.66,Retail
+Rusia,Fanta,2022,6,9792,2.03,1.11,Online
+India,Schweppes,2024,1,21597,1.43,0.93,Online
+Estados Unidos,Fuze Tea,2023,10,37405,2.43,0.7,Retail
+Chile,Smartwater,2024,4,33696,0.93,0.75,Online
+Colombia,Fanta,2024,6,44123,1.46,0.93,Restaurantes
+Perú,Fanta,2022,9,16989,1.37,0.21,Distribuidor
+Chile,Sprite,2022,11,29931,1.58,0.3,Online
+China,Minute Maid,2024,11,10290,2.45,1.35,Retail
+Chile,Sprite,2022,2,39367,1.71,0.3,Distribuidor
+Rusia,Sprite,2022,11,15342,2.49,1.12,Distribuidor
+Sudáfrica,Smartwater,2022,7,25941,1.94,1.4,Online
+Chile,Schweppes,2024,6,14945,1.36,0.55,Restaurantes
+Rusia,Schweppes,2022,2,11762,2.52,0.68,Online
+Japón,Powerade,2024,8,31133,1.1,0.94,Restaurantes
+Chile,Fuze Tea,2022,7,48080,1.06,1.35,Distribuidor
+China,Smartwater,2023,11,41150,1.76,1.42,Online
+Estados Unidos,Powerade,2022,5,28052,1.15,1.16,Retail
+Canadá,Coca-Cola,2022,12,42750,0.52,0.31,Online
+Nigeria,Fuze Tea,2024,5,20953,2.12,1.07,Restaurantes
+Nigeria,Fuze Tea,2024,7,41475,1.78,0.73,Restaurantes
+Chile,Del Valle,2022,9,18130,1.61,0.81,Online
+Canadá,Del Valle,2023,11,32086,2.92,0.26,Restaurantes
+Australia,Coca-Cola Zero,2022,9,5633,1.93,0.45,Distribuidor
+Japón,Coca-Cola Zero,2022,9,18304,2.66,1.23,Online
+Nigeria,Sprite,2023,6,43037,0.85,0.79,Restaurantes
+Perú,Coca-Cola,2024,10,33284,1.92,0.59,Online
+Estados Unidos,Fanta,2022,6,47546,2.67,0.7,Online
+España,Fanta,2024,3,8008,1.96,1.31,Retail
+Nigeria,Del Valle,2024,1,49291,2.3,1.17,Online
+Italia,Del Valle,2023,7,28405,1.43,0.55,Retail
+Perú,Del Valle,2023,4,37386,0.73,0.35,Restaurantes
+México,Smartwater,2024,1,26373,1.64,0.53,Retail
+Chile,Minute Maid,2022,8,21827,1.49,1.4,Retail
+Perú,Coca-Cola Zero,2024,12,34040,2.67,0.96,Retail
+India,Smartwater,2022,6,14007,1.11,0.89,Distribuidor
+Nigeria,Schweppes,2022,6,19157,2.92,0.98,Retail
+Reino Unido,Fanta,2023,2,33157,2.9,0.68,Online
+Estados Unidos,Fuze Tea,2022,1,36315,1.12,1.25,Retail
+Japón,Coca-Cola Zero,2022,2,36932,1.37,0.88,Online
+China,Powerade,2024,4,22164,2.74,0.35,Retail
+Brasil,Schweppes,2023,2,15414,2.92,0.37,Distribuidor
+Argentina,Coca-Cola Zero,2022,1,15327,1.61,0.9,Restaurantes
+Argentina,Smartwater,2022,7,49344,1.3,1.42,Retail
+Nigeria,Coca-Cola,2023,11,1946,1.82,0.6,Retail
+España,Fuze Tea,2024,11,15693,2.22,1.33,Distribuidor
+México,Coca-Cola Zero,2023,12,28241,1.18,1.19,Retail
+Estados Unidos,Minute Maid,2023,8,31254,2.34,0.52,Online
+Perú,Del Valle,2022,6,16540,0.63,0.25,Retail
+China,Del Valle,2022,4,7719,0.62,0.33,Retail
+Japón,Fuze Tea,2024,6,42203,1.47,1.15,Restaurantes
+Estados Unidos,Smartwater,2022,3,26081,1.38,0.46,Restaurantes
+Brasil,Del Valle,2022,12,12350,1.29,0.68,Retail
+Japón,Coca-Cola Zero,2023,8,37358,1.73,0.85,Distribuidor
+Italia,Powerade,2022,10,33021,1.3,1.14,Restaurantes
+Alemania,Fanta,2024,2,43832,0.98,0.35,Retail
+Brasil,Fanta,2023,5,29369,1.27,0.73,Restaurantes
+Nigeria,Schweppes,2024,1,32728,2.94,0.83,Retail
+Estados Unidos,Sprite,2023,6,18576,1.53,0.9,Restaurantes
+Italia,Coca-Cola,2022,2,30001,1.61,1.26,Restaurantes
+Japón,Fuze Tea,2023,4,18848,1.94,0.42,Online
+México,Schweppes,2023,6,1390,2.96,1.25,Retail
+Brasil,Sprite,2022,10,22999,1.1,1.1,Retail
+España,Smartwater,2022,11,46436,2.2,0.92,Retail
+España,Minute Maid,2024,8,12569,2.29,1.11,Retail
+Colombia,Minute Maid,2024,12,14029,2.02,0.74,Restaurantes
+Australia,Coca-Cola,2022,8,23490,0.72,0.38,Online
+Reino Unido,Del Valle,2022,11,46875,2.19,1.07,Online
+Rusia,Coca-Cola Zero,2022,6,36328,0.66,0.88,Distribuidor
+Alemania,Schweppes,2023,4,6867,1.99,1.03,Retail
+España,Schweppes,2023,8,16284,2.35,0.64,Distribuidor
+Australia,Fuze Tea,2023,8,34979,1.03,1.38,Restaurantes
+Perú,Fuze Tea,2022,10,10121,2.6,0.96,Distribuidor
+China,Minute Maid,2024,1,2539,0.58,0.31,Retail
+Argentina,Minute Maid,2022,4,26488,2.61,0.78,Online
+China,Powerade,2023,4,18027,1.65,1.18,Online
+Estados Unidos,Powerade,2023,7,9693,1.04,1.23,Retail
+Nigeria,Del Valle,2022,11,9921,0.83,0.84,Restaurantes
+Australia,Powerade,2022,7,11310,2.88,1.36,Retail
+Nigeria,Coca-Cola Zero,2023,11,46512,0.68,0.55,Restaurantes
+Reino Unido,Coca-Cola Zero,2023,8,31908,1,0.73,Online
+Perú,Schweppes,2023,11,5386,1.37,1.37,Restaurantes
+México,Fanta,2022,5,33263,2.05,1.37,Retail
+Estados Unidos,Coca-Cola Zero,2023,7,29412,1.86,1.09,Retail
+Italia,Sprite,2023,8,18303,0.81,1.32,Retail
+Alemania,Minute Maid,2024,9,13242,1.22,0.32,Restaurantes
+Rusia,Fuze Tea,2022,3,48025,1.1,1.32,Restaurantes
+Colombia,Powerade,2024,3,9947,1.03,0.62,Restaurantes
+Argentina,Schweppes,2024,4,47714,1.53,0.43,Online
+México,Coca-Cola,2023,5,6930,2.26,0.51,Distribuidor
+Brasil,Fuze Tea,2022,10,39170,1.04,0.74,Distribuidor
+Francia,Sprite,2023,1,49785,1.42,0.53,Retail
+Rusia,Powerade,2022,7,1507,1.48,0.62,Online
+Alemania,Sprite,2024,9,2436,2.94,0.38,Restaurantes
+Alemania,Minute Maid,2022,8,28151,2.89,0.59,Retail
+India,Minute Maid,2023,5,12618,2.5,0.94,Online
+Sudáfrica,Del Valle,2023,4,9750,1.1,0.77,Retail
+México,Schweppes,2023,12,17122,0.67,0.65,Online
+Francia,Fuze Tea,2022,7,8354,1.29,1.17,Online
+Brasil,Smartwater,2024,5,45062,1.17,1.36,Distribuidor
+Rusia,Smartwater,2024,7,31979,1.76,1.18,Retail
+Francia,Fuze Tea,2022,12,21900,2.44,0.63,Restaurantes
+Chile,Coca-Cola,2023,1,14840,2.65,1.17,Distribuidor
+Argentina,Schweppes,2024,1,38167,2.61,0.4,Distribuidor
+España,Sprite,2023,10,6037,1.4,0.37,Restaurantes
+Chile,Coca-Cola,2022,3,29633,2.22,0.65,Online
+Perú,Fanta,2023,11,25495,1.28,1.25,Restaurantes
+Nigeria,Fuze Tea,2024,2,16848,0.65,0.52,Retail
+Chile,Sprite,2024,2,37483,2.25,0.28,Restaurantes
+España,Smartwater,2023,7,48645,0.52,0.37,Online
+Sudáfrica,Coca-Cola Zero,2022,12,8837,1.52,1.32,Restaurantes
+Japón,Del Valle,2023,10,35069,1.32,1.02,Online
+México,Smartwater,2022,2,8370,2.23,0.53,Online
+Canadá,Schweppes,2023,11,7411,2.42,0.92,Retail
+China,Minute Maid,2024,4,40133,1.26,0.89,Restaurantes
+Sudáfrica,Coca-Cola Zero,2022,2,31499,2.53,1.05,Restaurantes
+Colombia,Del Valle,2022,6,31225,1.23,0.5,Retail
+España,Del Valle,2022,8,49217,1.62,1.32,Online
+Reino Unido,Fanta,2024,10,1692,2.32,0.6,Restaurantes
+Canadá,Fanta,2023,4,29926,2.23,1.1,Retail
+México,Powerade,2024,5,35246,2.97,0.22,Online
+Alemania,Smartwater,2022,4,40164,1.06,0.68,Retail
+Colombia,Smartwater,2023,3,9448,2.16,0.66,Restaurantes
+India,Smartwater,2024,5,44390,2.02,0.91,Retail
+Perú,Powerade,2022,9,11073,2.79,0.29,Distribuidor
+Argentina,Coca-Cola,2022,8,36414,0.89,1.23,Online
+Reino Unido,Del Valle,2024,8,6209,2.38,0.48,Distribuidor
+Sudáfrica,Coca-Cola Zero,2024,8,7533,1.92,1.08,Distribuidor
+India,Schweppes,2024,12,22061,1.19,1.24,Online
+México,Del Valle,2022,8,8211,1.69,0.93,Online
+Chile,Fanta,2024,7,10927,1.33,1.16,Retail
+Alemania,Sprite,2022,8,12927,1.95,1.06,Online
+India,Minute Maid,2024,11,25594,2.72,0.66,Distribuidor
+Francia,Powerade,2022,8,10316,1.92,1.25,Distribuidor
+Argentina,Fuze Tea,2022,8,13177,2.08,0.58,Restaurantes
+India,Sprite,2023,12,11846,1.8,0.94,Online
+Japón,Schweppes,2024,10,8933,0.63,1.17,Distribuidor
+México,Smartwater,2024,7,39244,1.08,0.69,Restaurantes
+Francia,Fanta,2022,12,47621,1.73,0.59,Restaurantes
+Canadá,Fanta,2022,1,41696,1.28,0.8,Retail
+China,Fanta,2022,4,3080,0.95,1.26,Distribuidor
+Argentina,Smartwater,2023,4,7089,1.76,1.41,Retail
+Canadá,Fuze Tea,2023,5,27123,1.31,0.91,Distribuidor
+Chile,Powerade,2022,10,8797,1.15,1.06,Retail
+España,Sprite,2024,6,9346,1.66,1.37,Retail
+México,Smartwater,2024,4,20878,0.83,0.33,Online
+Colombia,Schweppes,2023,2,34672,2.82,0.5,Retail
+Estados Unidos,Powerade,2023,6,18653,2.67,1.12,Online
+Nigeria,Schweppes,2022,8,43742,2.27,1.27,Restaurantes
+Reino Unido,Powerade,2024,8,27140,0.77,1.31,Distribuidor
+Nigeria,Fuze Tea,2022,7,2184,2.44,0.74,Restaurantes
+Colombia,Minute Maid,2023,6,35493,2.52,0.32,Distribuidor
+Japón,Schweppes,2024,2,45148,2.42,0.77,Restaurantes
+Colombia,Smartwater,2024,7,25846,0.78,0.5,Distribuidor
+Reino Unido,Powerade,2023,11,46825,2.11,0.58,Retail
+Chile,Fanta,2022,12,23195,2.59,1.2,Distribuidor
+China,Del Valle,2022,5,6606,1.94,0.3,Distribuidor
+Japón,Fanta,2024,6,4956,2.12,1.28,Restaurantes
+Brasil,Coca-Cola,2023,10,17555,1.65,0.76,Restaurantes
+México,Minute Maid,2024,8,25849,1.82,0.97,Restaurantes
+Italia,Minute Maid,2023,8,19690,0.59,0.32,Online
+Alemania,Fanta,2022,3,49849,2.1,0.64,Online
+Estados Unidos,Sprite,2023,12,27347,0.7,0.32,Distribuidor
+Reino Unido,Fuze Tea,2022,12,34189,1.59,1.45,Distribuidor
+Italia,Schweppes,2023,7,39308,1.23,1.25,Retail
+Rusia,Smartwater,2024,1,26785,1.86,0.8,Retail
+Nigeria,Minute Maid,2022,1,33698,0.83,0.49,Distribuidor
+Brasil,Fanta,2024,7,16966,2.23,1.41,Online
+Rusia,Fanta,2024,10,32097,2.49,0.65,Distribuidor
+Colombia,Fuze Tea,2022,9,16882,0.91,0.41,Retail
+Chile,Fuze Tea,2022,7,5675,0.76,0.93,Online
+Canadá,Coca-Cola Zero,2024,10,42850,0.86,1.43,Online
+Colombia,Coca-Cola Zero,2024,5,14009,2.69,0.2,Retail
+México,Sprite,2024,8,28843,1.82,0.51,Distribuidor
+Sudáfrica,Sprite,2024,2,30793,1.67,1.42,Restaurantes
+México,Coca-Cola,2022,9,40516,0.77,0.42,Distribuidor
+Sudáfrica,Sprite,2022,6,39871,2.12,0.35,Distribuidor
+Sudáfrica,Powerade,2024,9,18857,2.67,0.94,Retail
+Japón,Fuze Tea,2023,2,20627,2.57,1.32,Online
+Chile,Smartwater,2023,3,19565,2.07,0.82,Retail
+Estados Unidos,Powerade,2022,12,27025,0.69,1.49,Distribuidor
+Colombia,Schweppes,2024,8,28832,0.78,1.08,Restaurantes
+Japón,Fanta,2024,1,45116,0.62,0.3,Restaurantes
+Argentina,Sprite,2022,10,10782,1.14,1.49,Restaurantes
+China,Fanta,2023,7,39650,0.84,0.73,Retail
+Brasil,Minute Maid,2023,7,23366,1.15,0.57,Online
+Brasil,Coca-Cola,2023,1,29557,1.46,0.93,Retail
+Perú,Minute Maid,2022,9,6798,2.86,0.6,Restaurantes
+Alemania,Coca-Cola,2023,8,10627,2.03,0.31,Distribuidor
+Francia,Coca-Cola Zero,2022,4,42183,2.59,0.2,Online
+Francia,Fanta,2022,10,13466,2.28,0.78,Retail
+Nigeria,Coca-Cola,2024,11,43614,0.78,1.29,Retail
+India,Del Valle,2023,5,13720,2.34,0.94,Online
