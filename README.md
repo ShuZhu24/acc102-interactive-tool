@@ -32,3 +32,18 @@ This interactive tool helps "sales managers and marketing analysts" quickly expl
    2.Install dependencies:
    ```bash
    pip install -r requirements.txt
+ 6. Product link / Demo
+- **Deployed App**: [https://shuzhu24-acc102-interactive-tool-xxxx.streamlit.app](https://acc102-interactive-tool-dmmydbvrnjwp8qhfupw5lc.streamlit.app/)
+- **Demo Video**: [Link to your 1-3 minute demo video] *(submit via LMO)*
+- **GitHub Repository**: https://github.com/ShuZhu24/acc102-interactive-tool
+
+ 7. Limitations & next steps
+  Limitations
+- Data only covers 2020-2024, not including 2025 figures
+- Some smaller countries are grouped as "Other" due to low sales volume
+- Exchange rates are not normalized (all figures in nominal USD)
+
+  Next steps
+- Add forecasting feature to predict next quarter sales using simple linear regression
+- Integrate real-time data via API
+- Add more interactive filters (year range, profit margin threshold)
