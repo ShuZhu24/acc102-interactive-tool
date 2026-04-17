@@ -33,8 +33,8 @@ This interactive tool helps "sales managers and marketing analysts" quickly expl
    ```bash
    pip install -r requirements.txt
  6. Product link / Demo
-- **Deployed App**: [https://shuzhu24-acc102-interactive-tool-xxxx.streamlit.app](https://acc102-interactive-tool-dmmydbvrnjwp8qhfupw5lc.streamlit.app/)
-- **Demo Video**: [Link to your 1-3 minute demo video] *(submit via LMO)*
+- **Deployed App**: [https://acc102-interactive-tool-dmmydbvrnjwp8qhfupw5lc.streamlit.app/]
+- **Demo Video**: [Link to your 1-3 minute demo video] 
 - **GitHub Repository**: https://github.com/ShuZhu24/acc102-interactive-tool
 
  7. Limitations & next steps
