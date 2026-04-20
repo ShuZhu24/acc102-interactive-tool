@@ -24,10 +24,7 @@ df_stock = load_stock_data()
 
 st.sidebar.title("📊 导航面板")
 
-analysis_tab = st.sidebar.radio(
-    "选择分析模块",
-    ["📈 销售数据分析", "💰 股票价格分析"]
-)
+analysis_tab = st.sidebar.radio( "选择分析模块",  ["📈 销售数据分析", "💰 股票价格分析"])
 
 if analysis_tab == "📈 销售数据分析":
     st.title("🥤 Coca-Cola 全球销售数据分析")
