@@ -1,5 +1,6 @@
 import streamlit as st
 import pandas as pd
+import plotly.express as px
 import matplotlib.pyplot as plt
 
 st.set_page_config(page_title="Coca-Cola Sales Analysis", layout="wide")
@@ -12,7 +13,39 @@ def load_data():
     df['Profit'] = (df['Precio Unitario (USD)'] - df['Costo Unitario (USD)']) * df['Unidades Vendidas']
     return df
 
-df = load_data()
+@st.cache_data
+def load_stock_data():
+    df = pd.read_csv('KO_CocaCola_Stock_Prices_1980_2026.csv')
+    df['Date'] = pd.to_datetime(df['Date'])
+    return df
+
+df_sales = load_sales_data()
+df_stock = load_stock_data()
+
+st.sidebar.title("📊 导航面板")
+
+analysis_tab = st.sidebar.radio(
+    "选择分析模块",
+    ["📈 销售数据分析", "💰 股票价格分析"]
+)
+
+if analysis_tab == "📈 销售数据分析":
+    st.title("🥤 Coca-Cola 全球销售数据分析")
+
+st.sidebar.subheader("筛选条件")
+
+countries = df_sales['Country'].unique().tolist()
+    selected_countries = st.sidebar.multiselect(
+        "选择国家", 
+        countries, 
+        default=countries[:3]
+    )
+
+products = df_sales['Product'].unique().tolist()
+    selected_products = st.sidebar.multiselect(
+        "选择产品", 
+        products, 
+        default=products[:3]
 
 st.sidebar.header("Filter data")
 
@@ -50,6 +83,61 @@ col3.metric("Total Profit ", f"${total_profit:,.0f}")
 col4.metric("Average Unit Price", f"${avg_price:.2f}")
 
 st.subheader("Product Sales Ranking")
+
+elif analysis_tab == "💰 股票价格分析":
+    st.title("📈 Coca-Cola 股票价格分析 (1980-2026)")
+    
+    col1, col2, col3 = st.columns(3)
+    
+    start_price = df_stock['Close'].iloc[0]
+    end_price = df_stock['Close'].iloc[-1]
+    total_return = (end_price - start_price) / start_price * 100
+    
+    with col1:
+        st.metric("起始股价 (1980)", f"${start_price:.2f}")
+    with col2:
+        st.metric("最新股价", f"${end_price:.2f}")
+    with col3:
+        st.metric("累计回报率", f"{total_return:.1f}%")
+    
+    min_year = int(df_stock['Date'].dt.year.min())
+    max_year = int(df_stock['Date'].dt.year.max())
+    
+    st.subheader("📅 年份范围筛选")
+    year_range = st.slider(
+        "选择年份范围", 
+        min_year, 
+        max_year, 
+        (min_year, max_year)
+    )
+    
+    mask = (df_stock['Date'].dt.year >= year_range[0]) & (df_stock['Date'].dt.year <= year_range[1])
+    filtered_stock = df_stock[mask]
+    
+    st.subheader("📉 股价历史趋势")
+    fig3 = px.line(filtered_stock, x='Date', y='Close',
+                    title=f'Coca-Cola 股价走势 ({year_range[0]}-{year_range[1]})',
+                    labels={'Close': '股价 (USD)', 'Date': '日期'})
+    fig3.update_traces(line_color='#2E86AB', line_width=2)
+    st.plotly_chart(fig3, use_container_width=True)
+    
+    if 'Volume' in df_stock.columns:
+        st.subheader("📊 月度交易量")
+        fig4 = px.bar(filtered_stock, x='Date', y='Volume',
+                       title='交易量变化',
+                       labels={'Volume': '交易量', 'Date': '日期'})
+        st.plotly_chart(fig4, use_container_width=True)
+    
+    st.subheader("📋 年度股价统计")
+    df_stock['Year'] = df_stock['Date'].dt.year
+    yearly_stats = df_stock.groupby('Year')['Close'].agg(['mean', 'min', 'max']).reset_index()
+    yearly_stats.columns = ['年份', '平均股价', '最低价', '最高价']
+    yearly_stats = yearly_stats[(yearly_stats['年份'] >= year_range[0]) & (yearly_stats['年份'] <= year_range[1])]
+    
+    st.dataframe(yearly_stats, use_container_width=True)
+
+
+
 
 product_sales = filtered_df.groupby('Producto')['Unidades Vendidas'].sum().sort_values()
 
