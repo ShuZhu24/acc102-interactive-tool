@@ -42,7 +42,7 @@ selected_countries = st.sidebar.multiselect(
     )
 
 products = df_sales['Product'].unique().tolist()
-    selected_products = st.sidebar.multiselect(
+selected_products = st.sidebar.multiselect(
         "选择产品", 
         products, 
         default=products[:3]
