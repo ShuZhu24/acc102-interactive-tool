@@ -29,7 +29,7 @@ Stock Price Data
   2. **Exploratory Analysis**: Calculated total sales by country...
   3. **Visualization**: Created interactive charts using Plotly...
 
-### Stock Price Analysis (New!)
+### Stock Price Analysis 
   4. **Stock Data Processing**: Loaded historical stock prices from CSV, converted Date column to   datetime
   5. **Time Series Analysis**: Calculated cumulative returns, yearly statistics
   6. **Interactive Features**: Added year range slider for dynamic filtering
@@ -45,7 +45,7 @@ Stock Price Data
 - **Best-selling product**: Coca-Cola Classic accounts for approximately 45% of global sales
 - **Seasonal trend**: Sales peak in Q4 (October-December)
 
-### Stock Market Findings (New!)
+### Stock Market Findings 
 - **Long-term growth**: KO stock has delivered approximately 800% cumulative return since 1980
 - **Price range**: Trading between $5 and $65 over the past 46 years
 - **Volume trends**: Trading volume peaks during market volatility events
