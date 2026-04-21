@@ -66,21 +66,15 @@ Stock Price Data
 
  8. Limitations & next steps
   Limitations
-- Data only covers 2020-2024, not including 2025 figures
+- Sales data only covers 2020-2024, not including 2025 figures
 - Some smaller countries are grouped as "Other" due to low sales volume
 - Exchange rates are not normalized (all figures in nominal USD)
-- ### Limitations
-- Sales data only covers 2020-2024
 - Stock data does not include dividends or stock splits adjustments
 - No correlation analysis between sales performance and stock price
 
-### Next steps
+Next steps
 - Add correlation chart between quarterly sales and stock returns
 - Integrate real-time stock price via yfinance API
 - Add dividend yield analysis
 
 
-  Next steps
-- Add forecasting feature to predict next quarter sales using simple linear regression
-- Integrate real-time data via API
-- Add more interactive filters (year range, profit margin threshold)
