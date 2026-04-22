@@ -61,7 +61,6 @@ Stock Price Data
    pip install -r requirements.txt
  7. Product link / Demo
 - **Deployed App**: [https://acc102-interactive-tool-dmmydbvrnjwp8qhfupw5lc.streamlit.app/]
-- **Demo Video**: [Link to your 1-3 minute demo video] 
 - **GitHub Repository**: https://github.com/ShuZhu24/acc102-interactive-tool
 
  8. Limitations & next steps
