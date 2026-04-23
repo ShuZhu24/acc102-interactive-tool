@@ -59,7 +59,7 @@ Stock Price Data
    2.Install dependencies:
    ```bash
    pip install -r requirements.txt
- 7. Product link / Demo
+ 7. Product link 
 - **Deployed App**: [https://acc102-interactive-tool-dmmydbvrnjwp8qhfupw5lc.streamlit.app/]
 - **GitHub Repository**: https://github.com/ShuZhu24/acc102-interactive-tool
 
